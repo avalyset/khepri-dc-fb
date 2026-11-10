@@ -1,0 +1,177 @@
+gt_id,verdi,sted,metode,kommentar
+GT-001,https://github.com/avalyset/khepri-dc.git,linje 6,lest på oppgitt sted,
+GT-002,3f9617b0667354c4ea460c487ae9bd03e8bab9a6,linje 8,lest på oppgitt sted,«object 3f9617b0…»; samme hash som rev-list på linje 2
+GT-003,4b02800ffa0b781eacb7b21e716dfa02c457d157,linje 4,lest på oppgitt sted,Linje 3 er kommandoen (git rev-parse HEAD); hashen står på linje 4
+GT-004,KHEPRI-DC v1.0.1: innhold identisk med Zenodo 10.5281/zenodo.23887356 (v1.0.0 pekte på innhold før DOI),linje 13,lest på oppgitt sted,
+GT-005,KHEPRI-DC v1.0.0: Timevis nettoposisjon per norsk budområde 2023–2025 med datasenterkøen lagt på,linje 33,lest på oppgitt sted,
+GT-006,1.0.0,linje 36,lest på oppgitt sted,"""version"": ""1.0.0"""
+GT-007,"2023, 2024 og 2025",linje 10,lest på oppgitt sted,"«hver UTC-time i 2023, 2024 og 2025»"
+GT-008,"ENTSO-E A75, sum alle typer",linje 10,lest på oppgitt sted,"«NP = produksjon (ENTSO-E A75, sum alle typer)»"
+GT-009,ENTSO-E A65,linje 11,lest på oppgitt sted,«− last (ENTSO-E A65)» står på linje 11 (fortsettelse av setningen fra linje 10)
+GT-010,"**Fysisk flyt:** ENTSO-E A11 over de 15 grensene som berører NO1–NO5, begge retninger (kontroll).",linje 43,lest på oppgitt sted,
+GT-011,"Elhub `consumption_datacenter_per_mba_hour` (CC BY 4.0), per prisområde.",linje 48,lest på oppgitt sted,
+GT-012,På de observerte timene legges flat last,linje 11,lest på oppgitt sted,"Fortsetter linje 12: «L = (E_ref − E_y) + 0,70 × (w × R_new + q × Q)»"
+GT-013,"0,70",linje 56,lest på oppgitt sted,"«… der R_new = max(0, R − E_ref / 0,70) og 0,70 er NVEs brukstid.»"
+GT-014,0.7,linje 44,lest på oppgitt sted,"""brukstid"": 0.7"
+GT-015,70 prosent,PDF-side 4,lest på oppgitt sted,Overskrift «Brukstid på 70 prosent»; «en brukstid på 70 prosent var en rimelig gjennomsnittsverdi for norske datasentre»
+GT-016,4 190,linje 15,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-017,10 109,linje 15,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-018,1 398,linje 16,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-019,2 220,linje 16,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-020,1 950,linje 17,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-021,3 092,linje 17,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-022,96,linje 18,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-023,1 646,linje 18,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-024,477,linje 19,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-025,2 258,linje 19,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-026,270,linje 20,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-027,894,linje 20,lest på oppgitt sted,Tabellrad Datasenter; kolonnene Reservert (MW) / Kapasitetskø (MW)
+GT-028,"0,43 / 0,22 / 0,44",linje 180,lest på oppgitt sted,"«skifter årssummen fortegn i NO4 ved f = 0,43 / 0,22 / 0,44»"
+GT-029,"0,50 / 0,63 / 0,58",linje 180,lest på oppgitt sted,"«og i NO2 ved f = 0,50 / 0,63 / 0,58»"
+GT-030,I NO5 skjer det ikke for noen f.,linje 180–181,lest på oppgitt sted,Setningen starter på linje 180 og slutter på 181
+GT-031,"Vi modellerer ikke priser, nett inne i sonene, respons i produksjon eller import, eller effektbalanse.",linje 35,lest på oppgitt sted,
+GT-032,Netto import er ikke mangel eller rasjonering.,linje 167,lest på oppgitt sted,
+GT-033,Vannkraft og import er normal drift.,linje 168,lest på oppgitt sted,
+GT-034,"NO2, NO3 og NO4",linje 32,lest på oppgitt sted,"«Kontrollen (A11) er utenfor den preregistrerte grensen i NO2, NO3 og NO4 (truth/DEVIATIONS, DEV-1).»"
+GT-035,Midlertidige tiltak for fortsatt forsvarlig systemdrift,linje 145,lest på oppgitt sted,Står også på linje 144
+GT-036,09.11.2026 kl. 08:45,linje 149,lest på oppgitt sted,Linje 148 er «Publisert»; datoen står på linje 149
+GT-037,Det er datasentrenes systemmessige egenskaper som utløser den midlertidige stansen.,linje 173–174,lest på oppgitt sted,Kandidater: (1) linje 173–174 «Det er datasentrenes systemmessige egenskaper som utløser den midlertidige stansen.» (2) linje 172–173 «Den midlertidige stansen er et risikoreduserende tiltak for kraftsystemet og innføres i påvente av et nødvendig kunnskapsgrunnlag for å utvikle fremtidige krav.» Også linje 146: «Tiltakene er nødvendige for å sikre forsvarlig drift av kraftsystemet.»
+GT-038,"midlertidig stans i behandling av nye søknader om godkjenning av anleggsfunksjonalitet, etter forskrift for systemansvaret (fos) § 14.",linje 158–159,lest på oppgitt sted,
+GT-039,800 MW,linje 167,lest på oppgitt sted,«800 MW datasenter er i dag tilknyttet nettet»
+GT-040,4 200 MW,linje 168,lest på oppgitt sted,"«4 200 MW har fått reservert kapasitet» (linje 168, ikke 167)"
+GT-041,9 100 MW,linje 168–169,lest på oppgitt sted,«9 100 MW står i kapasitetskø»
+GT-042,18 000 MW,linje 169–170,lest på oppgitt sted,«forespørsler om tilknytning av ytterligere 18 000 MW»
+GT-043,litt over 25 000 MW,linje 170,lest på oppgitt sted,«det maksimale effektforbruket i Norge litt over 25 000 MW»
+GT-044,1. august 2027,linje 163,lest på oppgitt sted,«Den midlertidige stansen forventes opphevet senest 1. august 2027.»
+GT-045,4 205,linje 9,lest på oppgitt sted,Kolonne «Reservert 09.11»; sonesum 4 206 (linje 16)
+GT-046,10 774,linje 9,lest på oppgitt sted,Kolonne «Kø 09.11»; sonesum 10 775 (linje 16)
+GT-047,1 413,linje 10,lest på oppgitt sted,
+GT-048,3 668,linje 11,lest på oppgitt sted,
+GT-049,1 745,linje 12,lest på oppgitt sted,
+GT-050,2 248,linje 13,lest på oppgitt sted,
+GT-051,270 / 894,linje 14,lest på oppgitt sted,"Reservert 09.11 = 270 (Δ 0), Kø 09.11 = 894 (Δ 0)"
+GT-052,"Utviklingen i kraftsystemet inklusiv energi- og effektbalansen i nærliggende områder som sør i NO4, NO3, Sverige og Finland påvirker også dette området.",PDF-side 3,lest på oppgitt sted,
+GT-053,JaoPublicationToolPandasNordics,linje 7,lest på oppgitt sted,class JaoPublicationToolPandasNordics(JaoPublicationToolPandasClient)
+GT-054,https://publicationtool.jao.eu/nordic/api/data/,linje 8,lest på oppgitt sted,
+GT-055,0.8.7,linje 48,lest på oppgitt sted,«Version: 0.8.7» står på linje 48; linje 47 er «Name: jao-py»
+GT-056,672,beregnet (hele fila),Python csv.reader: datarader uten header (673 linjer totalt),
+GT-057,2026-10-26 00:00:00+01:00 / 2026-11-01 23:45:00+01:00,"beregnet (kolonne mtu, første/siste datarad)",Python csv.reader,
+GT-058,15 minutter,beregnet,Python: differanser mellom påfølgende mtu-tidsstempler; ett unikt steg = 900 s,672 unike tidsstempler = 7 døgn × 96
+GT-059,5,beregnet (header),Python: sjekk av min_NOx og max_NOx i header,"NO1, NO2, NO3, NO4, NO5. Virtuelle NO2_SK/NO2_ND/NO2_NK har også begge, men er ikke budområder; tas de med blir det 8"
+GT-060,"Use for educational, academic or research purposes.",linje 134,lest på oppgitt sted,
+GT-061,"The Content cannot be sold, commercialized as a product or service, marketed or otherwise made available to any third party, in whole or in part, in any manner, freely or against payment, unless expressly authorized in advance by JAO in writing.",linje 175,lest på oppgitt sted,
+GT-062,"The Content cannot be disseminated, displayed, copied, extracted, distributed or reproduced in whole or in part, in any manner, on any medium or support whatsoever, freely or against payment, unless expressly authorized in advance by JAO in writing, or unless it is consistent with a Legitimate Use or otherwise permitted by these Terms of Use.",linje 176,lest på oppgitt sted,
+GT-063,"For the purposes of this Clause 4, references to ""Content"" include any data, information, reports, analyses, outputs, extracts, compilations, transformations, aggregations or other materials derived from, based on, generated from or incorporating the Content, in whole or in part.",linje 174,lest på oppgitt sted,
+GT-064,"Reverse engineering, scraping, or the use of bots to collect the Content, or part of it, from the Information Systems is strictly prohibited.",linje 177,lest på oppgitt sted,
+GT-065,1.5.0,linje 34,lest på oppgitt sted,
+GT-066,Khepri — Nordic per-zone carbon intensity (NO1-NO5 + SE1-SE4),linje 31,lest på oppgitt sted,
+GT-067,2.0.1,linje 37,lest på oppgitt sted,
+GT-068,"Khepri — consumption-based hourly carbon intensity for the Nordic bidding zones, 2025",linje 34,lest på oppgitt sted,
+GT-069,19.10.2026 kl. 09:55,linje 149,lest på oppgitt sted,Linje 148 er «Publisert»; datoen på linje 149
+GT-070,"I årets utgave er Kortsiktig markedsanalyse, som ser på utviklingen den neste femårsperioden og utgis hver høst, og Langsiktig markedsanalyse slått sammen til en felles rapport.",linje 156,lest på oppgitt sted,
+GT-071,Competitive effects of transmission constraints in the German electricity market,PDF-side 1,lest på oppgitt sted,
+GT-072,arXiv:2607.00977v1,PDF-side 1,lest på oppgitt sted,«arXiv:2607.00977v1 [econ.GN] 1 Jul 2026»
+GT-073,We define import and export headroom as the absolute difference (in GW) between the realized zonal net position in Core and the corresponding maximum (for export headroom) and minimum (for import) net position in Core.,PDF-side 8,lest på oppgitt sted,
+GT-074,minimum (for import) net position in Core,PDF-side 8,lest på oppgitt sted,Formel (1): H_t^im = NP_t − NP_t^min (pdftotext: «Htim = N P t − N P min t»)
+GT-075,Net position denotes net export for the local market in European flow-based market coupling.,PDF-side 4,lest på oppgitt sted,
+GT-076,"Minimum and maximum net position denote the largest feasible imports and exports, respectively.",PDF-side 4,lest på oppgitt sted,
+GT-077,"Our approach relies on using minimum and maximum net position data, which are only published for the Core FBMC region.",PDF-side 8,lest på oppgitt sted,
+GT-078,we study suspected strategic behavior by German gas- and coal-fired power plants in 2022-2024,PDF-side 1,lest på oppgitt sted,Periode 2022-2024 (abstract)
+GT-079,0,beregnet (hele tekstfila),"Python re.I, linjer med minst ett treff; kryssjekket med grep -c -i og tools/tell.py linjer K-19 nordic (0)",
+GT-080,0,beregnet (hele tekstfila),"Python re.I, linjer med minst ett treff; kryssjekket med grep -c -i -E",
+GT-081,"Version 1.8.1, Date 02-07-2026",PDF-side 1,lest på oppgitt sted,
+GT-082,This page displays the minimum and maximum net positions in MW of each bidding zone for each MTU of the day.,PDF-side 17,lest på oppgitt sted,
+GT-083,Please note that each minimum or maximum net position and border flow is a unique extremum of the domain.,PDF-side 9,lest på oppgitt sted,
+GT-084,"Hence, simultaneous feasibility of e.g. maximum flow on two borders cannot be guaranteed.",PDF-side 9,lest på oppgitt sted,
+GT-085,https://publicationtool.jao.eu/nordic/api/data/netPos,PDF-side 21,lest på oppgitt sted,Rad «Net Position SDAC»
+GT-086,https://publicationtool.jao.eu/nordic/api/data/maxNetPos,PDF-side 21,lest på oppgitt sted,Rad «Min and Max Net Positions»
+GT-087,This page contains data about the Day ahead Net Positions of each Bidding zone (real and virtual) calculated from the Day ahead market.,PDF-side 16,lest på oppgitt sted,
+GT-088,24 MTUs,PDF-side 8,lest på oppgitt sted,«… Max Border Flow (MaxBflow) for the 24 MTUs of the selected day.»
+GT-089,"29/10/2024, (first trading day for delivery on 30th October 2024)",linje 127,lest på oppgitt sted,"«…successful go-live of the project on 29/10/2024, (first trading day for delivery on 30th October 2024).»"
+GT-090,go-live on 30 October 2024,PDF-side 28,lest på oppgitt sted,«…all historical declassification keys from go-live on 30 October 2024 until 13 May 2026.»
+GT-091,15 minutes resolution in the intraday and day ahead markets during spring 2025,PDF-side 39,lest på oppgitt sted,«…preparations to the transition to 15 minutes resolution in the intraday and day ahead markets during spring 2025»
+GT-092,This section provides an overview of the average initial ID ATC values per bidding zone border and the total amount of import and export for each bidding zone.,PDF-side 4,lest på oppgitt sted,Seksjon 1.3 «Evaluation of the realized effects of the ID ATCE implementation»; 1.3.1 ID ATCs
+GT-093,0,beregnet (hele tekstfila),Python re.I linjetelling; kryssjekket med grep -c -i,
+GT-094,0,beregnet (hele tekstfila),Python re.I linjetelling,
+GT-095,4 217 MW,linje 166,lest på oppgitt sted,«4 217 MW var reservert til datasenterformål i oktober 2026 ifølge Statnetts tall gjengitt i NVEs Energibruksrapporten 2026»
+GT-096,2026-11-07,linje 85,lest på oppgitt sted,"«NVE, Elhub, Statnett og NDI - sist oppdatert 2026-11-07»"
+GT-097,0,beregnet (hele fila),Python re.I linjetelling; kryssjekket med grep -c -i -E,
+GT-098,Nr. 129,PDF-side 1,lest på oppgitt sted,«Menon-publikasjon Nr. 129 2026»
+GT-099,Digitaliserings- og forvaltningsdepartementet (DFD),PDF-side 2,lest på oppgitt sted,«På oppdrag for Digitaliserings- og forvaltningsdepartementet (DFD)»
+GT-100,Vi antar dermed at prosjektenes lokalisering tar høyde for begrensninger i nettet.,PDF-side 65,lest på oppgitt sted,Fotnote 72
+GT-101,0,beregnet (hele tekstfila),Python re.I linjetelling,
+GT-102,Modellen beregner kraftprisen som den prisen som balanserer tilbud og etterspørsel i hvert prisområde i Norge.,PDF-side 70,lest på oppgitt sted,
+GT-103,ERAA 2025 identifies some adequacy-issues in the bidding area NOS1 in the years 2030 to 2035.,PDF-side 34,lest på oppgitt sted,
+GT-104,Statnett don't see the same adequacy-risk in Statnett's own analysis.,PDF-side 34,lest på oppgitt sted,
+GT-105,flow-based modelling,PDF-side 34,lest på oppgitt sted,"«…possible reasons for this difference, like the assumption of demand/production-growth, grid-modelling, flow-based modelling, increased reserves requirements or hydro-modelling-issues.»"
+GT-106,0,beregnet (PDF-side 34),Python re.findall re.I på side 34; tools/tell.py side K-11 34 ga også 0,
+GT-107,reliability standard (1.0 hours/year) in SE03 and SE04,PDF-side 50,lest på oppgitt sted,«The ED results indicate that the LOLE exceeds the reliability standard (1.0 hours/year) in SE03 and SE04…»
+GT-108,DECISION No 06/2026 … of 24 April 2026,PDF-side 1,lest på oppgitt sted,
+GT-109,24 April 2026,PDF-side 38,lest på oppgitt sted,"«Done at Ljubljana, on 24 April 2026.»"
+GT-110,"For the Nordic CCR, ENTSO-E has introduced the FB approach in both the ED and EVA modules, by identifying seven FB domains per target year.",PDF-side 15,lest på oppgitt sted,Avsnitt (77); EVA bruker bare ett representativt domene
+GT-111,0,beregnet (hele tekstfila),Python re.I linjetelling; kryssjekket med grep -c -i -E,
+GT-112,The proposal for European Resource Adequacy Assessment for 2025 is amended and approved,PDF-side 38,lest på oppgitt sted,Article 1
+GT-113,1. September 2025,PDF-side 2,lest på oppgitt sted,
+GT-114,"I analysen er hvert år fram til 2030 simulert separat, over 29 kronologiske værår.",PDF-side 5,lest på oppgitt sted,
+GT-115,Dette gjør Samnett i stand til å modellere flytbasert markedskobling for håndtering av flaskehalser med budområder.,PDF-side 50,lest på oppgitt sted,
+GT-116,70-90%,"PDF-side 29, PDF-side 30",lest på oppgitt sted,"«* Dersom alt forbruk kommer til avtalt tid, med brukstid 70-90% avhengig av sektor.» (begge sider)"
+GT-117,0,beregnet (hele tekstfila),Python re.I linjetelling; grep -c -i ga 0,
+GT-118,Dette skyldes at det ikke er nok importkapasitet til å dekke hele det norske forbruket.,PDF-side 44,lest på oppgitt sted,Kontekst: «På vinteren i et tørrår* i Høy-scenarioet får vi mye høyere priser enn i andre land.»
+GT-119,19 oktober 2026,PDF-side 2,lest på oppgitt sted,
+GT-120,ca. 4200 MW reservert / ca. 8800 MW i kapasitetskø,PDF-side 56,lest på oppgitt sted,"«Det er reservert ca. 4200 MW forbruk til datasenter, og ca. 8800 MW er i kapasitetskø.»"
+GT-121,Summen av norsk produksjon og full nettoimport er imidlertid ikke nok til å dekke hele forbruket i disse årene.,PDF-side 85,lest på oppgitt sted,
+GT-122,*Maksimalt forbruk er timen med høyest forbruk i våre simuleringer (ekskludert forbruk til hydrogenproduksjon og elkjel) for hele Norge.,PDF-side 92,lest på oppgitt sted,
+GT-123,0,beregnet (hele tekstfila),Python re.I linjetelling; grep -c -i ga 0,
+GT-124,I år har vi slått sammen de to analysene til en felles rapport for å bedre kunne se utviklingen på kort og lang sikt i sammenheng.,PDF-side 2,lest på oppgitt sted,
+GT-125,Juni 2025,PDF-side 1,lest på oppgitt sted,
+GT-126,ca. 1200 MW,PDF-side 7,lest på oppgitt sted,«Med intakt nett vil det være mulig å overføre ca. 1200 MW over Ofotenforbindelsene»
+GT-127,Flytbasert markedskobling er allerede implementert.,PDF-side 20,lest på oppgitt sted,
+GT-128,15. juni 2026,PDF-side 1,lest på oppgitt sted,
+GT-129,Vår ref: 2026/938 -2,PDF-side 1,lest på oppgitt sted,Også «Deres ref: 202611386-1» (NVEs referanse)
+GT-130,1050 MW,PDF-side 8,lest på oppgitt sted,«Realisert kapasitet10 inn til Område Nord11 er satt til 1050 MW12»
+GT-131,7-8 %,PDF-side 8,lest på oppgitt sted,«I Forbruk 5 har vi i snitt 7-8 % varighet av forbruksutkobling om vinteren.»
+GT-132,Resultatene fra DF-analysen viser at en forbruksvekst utover 850 MW i Område Nord vil medføre risiko for regional effektmangel.,PDF-side 9,lest på oppgitt sted,
+GT-133,0,beregnet (hele tekstfila),Python re.I linjetelling; grep -i -E ga ingen treff,
+GT-134,Samnett/EMPS,PDF-side 8,lest på oppgitt sted,«I Samnett/EMPS er i utgangspunktet alt forbruk fleksibelt»
+GT-135,K-14:1 K-15:1 K-29:1,"beregnet (hele arkivet, side/fil-nivå)",tools/tell.py . samtreff-liste (utdata «K-14:1 K-15:1 K-29:1»); egen Python-sjekk over kilder/*.txt|md|json|csv og kilder/txt (sider delt på \f) ga i tillegg K-34:1,"Egen kjøring fant også K-34 (BESTILLING, ikke en av v1s egne filer, og ikke lest av meg). Avgrenset til v1s egne filer: K-14, K-15, K-29 (side/fil 1). Antall = 3"
+GT-136,ingen,beregnet (hele arkivet),"tools/tell.py . samtreff-liste ga «ingen»; egen Python-sjekk per side fant bare K-34:1 (bestillingsfila, ikke en kilde)",K-11 alene: 0 sider. Merk at K-11 PDF-side 50 har «reliability standard» men bare for SE03/SE04 (ikke Norge)
+GT-137,NVE Rapport nr. 20/2022,PDF-side 2,lest på oppgitt sted,
+GT-138,Det er viktig å merke seg at vi her kun vurderer den nasjonale effektsituasjonen.,PDF-side 28,lest på oppgitt sted,
+GT-139,Det er viktig å understreke at effektbalansene på budområdenivå viser et svært forenklet bilde av virkeligheten.,PDF-side 28,lest på oppgitt sted,
+GT-140,Det kaldeste døgnet i det kaldeste væråret vil gi timen med høyest forbruk.,PDF-side 22,lest på oppgitt sted,
+GT-141,0,beregnet (hele tekstfila),Python re.I linjetelling; grep -c -i ga 0,
+GT-142,"inntil 1,2 GW importbehov",PDF-side 7,lest på oppgitt sted,"«…vil det kunne oppstå enkelttimer med inntil 1,2 GW importbehov.»"
+GT-143,NVE Rapport nr. 20/2024,PDF-side 2,lest på oppgitt sted,
+GT-144,NVE har ikke analysert importmuligheter i ekstremsituasjoner som del av dette prosjektet,"PDF-side 8, PDF-side 22",lest på oppgitt sted,Står ordrett på begge sidene
+GT-145,0,beregnet (hele tekstfila),Python re.I linjetelling,
+GT-146,at det ved svekket effektbalanse oftere vil oppstå situasjoner hvor det ikke vil være importkapasitet til å dekke hele effektunderskuddet,PDF-side 8,lest på oppgitt sted,Gjengitt fra Svenska Kraftnät og Statnett (rapporter fra 2024)
+GT-147,NVE Rapport nr. 17/2026,PDF-side 50,lest på oppgitt sted,
+GT-148,En positiv nasjonal effektbalanse innebærer at Norge til enhver tid kan dekke eget forbruk uten å være avhengig av import – også i de strammeste timene.,PDF-side 16,lest på oppgitt sted,Alternativ: «…beregner vi effektbalansen med utgangspunkt i det maksimale effektbehovet og den laveste tilgjengelige produksjonskapasiteten.» (samme side)
+GT-149,Nettoposisjonen til et budområde uttrykker forskjellen mellom hvor mye kraft som produseres og hvor mye som brukes i området på et gitt tidspunkt.,PDF-side 42,lest på oppgitt sted,"USIKKER: ordet «observert» står ikke på side 42; dette er en definisjon. Andre omtaler: s. 39 «(nettoposisjon)», s. 41 «nettoposisjonen i NO4, fordi produksjon og eksport fra Nord-Sverige har gitt en …»"
+GT-150,"2025 var det første hele året med flytbasert kapasitetsberegning i Norden, etter innføringen høsten 2024.",PDF-side 11,lest på oppgitt sted,
+GT-151,0,beregnet (hele tekstfila),Python re.I linjetelling; grep -c -i -E ga 0,
+GT-152,fra 3 TWh i 2025 til rundt 8 TWh i 2030,PDF-side 21,lest på oppgitt sted,
+GT-153,I slutten av april 2026 innførte Statnett en midlertidig stopp i reservasjoner til framtidig stort industriforbruk nord for Svartisen.,PDF-side 31,lest på oppgitt sted,"Gjelder nord for Svartisen, ikke datasentre spesielt"
+GT-154,RAPPORT NR 37 / 2026,"PDF-side 1, PDF-side 2",lest på oppgitt sted,
+GT-155,I denne analysen har vi ikke gjort egne analyser av hvordan endrede utviklingsbaner for forbruk og produksjon mot 2035 vil kunne påvirke utviklingen i effektbalanse.,PDF-side 17,lest på oppgitt sted,
+GT-156,"Særlig gjelder dette datasentre, der vi har antatt en jevn forbruksprofil over året.",PDF-side 17,lest på oppgitt sted,
+GT-157,om lag 4 GW,PDF-side 27,lest på oppgitt sted,"«Per august 2026 er det reservert om lag 4 GW kapasitet til datasentre i eksisterende og planlagt nett fram mot 2035.» (S4 bruker 3,6 GW, uttrekk mars 2026)"
+GT-158,om lag 9 GW,PDF-side 27,lest på oppgitt sted,«Per mai 2026 viste Statnetts tilknytningsregister totalt 120 saker fra datasenteraktører … total kapasitet på om lag 9 GW.» I tillegg over 20 GW forespurt
+GT-159,17 av 30,PDF-side 14,lest på oppgitt sted,«netto import av kraft til Norge i over halvparten (17 av 30) av værårene» ved kraftbalanse -4 TWh
+GT-160,0,beregnet (hele tekstfila),Python re.I linjetelling,
+GT-161,I kraftmarkedet fastsettes kraftprisene med en tidsoppløsning på 15 minutter,PDF-side 20,lest på oppgitt sted,
+GT-162,NVE 11. august 2026,PDF-side 1,lest på oppgitt sted,
+GT-163,0,beregnet (hele tekstfila),Python re.I linjetelling; kryssjekket med grep -c -i -E,
+GT-164,hub_NO1,linje 100,lest på oppgitt sted,
+GT-165,"""rader"": 0, ""feil"": ""NoMatchingDataError""",linje 2–7 (nøkkel netPos_2024-10-30),lest i JSON,
+GT-166,96,linje 85,lest i JSON (netPos_2026-10-26.rader),
+GT-167,24,linje 11,lest i JSON (maxNetPos_2024-10-30.rader),
+GT-168,2024-10-29T23:00:00Z / 2024-10-30T22:00:00Z,linje 78–79,lest i JSON (foerste/siste),
+GT-169,"Ja, 5 av 5 soner",linje 8–12,"Python: sjekk at tab-strengen har «2024\n(MW)», «2025\n(MW)», «2026\n(MW)» for NO1–NO5",
+GT-170,5 (NO1–NO5),linje 15–19,lest: mtu_rader 96 og actual_tall 96 for alle fem,"NO1-linja har feltet «dato» med klokka, ikke dag31, men tabelldatoen 31/10/2026 er bekreftet i merknaden"
+GT-171,5 (NO1–NO5),linje 22–26,lest: mtu_rader 96 og rader_med_tall 96 for alle fem,
+GT-172,42 med 96 MTU / 2 med 0 MTU,linje 29–33,Python: telling av alle «kol»-oppføringer (44 i alt),"De to med 0 er NO1→NO1A og NO1A→NO1. Unike grenseretninger (dubletter mellom sonesider fjernet): 32, hvorav 30 med 96 og 2 med 0"
+GT-173,"""mtu_rader"":96 … ""forste"":""00:00 - 00:15"",""siste"":""23:45 - 00:00""",linje 19,lest på oppgitt sted,Linje 19 er NO5 A65; samme mønster på linje 15–26
+GT-174,Dekningen jan–okt 2026 utover døgnet 2026-10-31 er ikke kontrollert (krever API-token eller avlesning dag for dag).,linje 37,lest på oppgitt sted,
+GT-175,API-henting var ikke mulig: ENTSOE_API_TOKEN finnes ikke i skallets miljø.,linje 5,lest på oppgitt sted,
+GT-176,8 760 / 8 784 / 8 760,linje 45,lest på oppgitt sted,«Alle 120 serie-år har 8 760 / 8 784 / 8 760 gyldige timer.»

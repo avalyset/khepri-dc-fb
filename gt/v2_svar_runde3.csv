@@ -1,0 +1,32 @@
+gt_id,verdi,sted,metode,kommentar
+GT-178,09.11.2026,K-34 linje 1,lest (regex dd.mm.åååå på linje 1),Linje 2 gir arkiveringstidspunkt 2026-11-09T17:04:08Z (UTC); selve bestillingsdatoen på linje 1 er 09.11.2026.
+GT-179,"andel MTU der datasenterkøen lagt på som last i sonen ville kreve mer import enn min nettoposisjon tillater — per NO-sone, som funksjon av andelen f av køen.",K-34 linje 61,lest ordrett,Verdi = teksten etter «Forskningsspørsmål: ».
+GT-180,2024-10-30–2026-10-31,K-34 linje 62,lest ordrett,"Linja: «Periode 2024-10-30–2026-10-31, native 15 min, også per time.»"
+GT-181,"native 15 min, også per time",K-34 linje 62,lest ordrett,Erstattet av K-40 linje 26 (GT-206).
+GT-182,H(t) = NP(t) − minNP(t); hendelse når L_f > H(t),K-34 linje 63,lest ordrett,
+GT-183,H(t) + regulerbar vannkraft (installert minus faktisk) som øvre grense,K-34 linje 63,lest ordrett,Står etter «Sekundært: ».
+GT-184,Begge rapporteres; ingen velges i ettertid.,K-34 linje 63,lest ordrett,
+GT-185,"som v1 (flat, brukstid 0,70, 02.11-køen) primært",K-34 linje 64,lest ordrett,"Linja begynner «Last: som v1 (flat, brukstid 0,70, 02.11-køen) primært; ...»."
+GT-186,"brukstid 1,0",K-34 linje 64,lest ordrett,"Fra «sensitiviteter brukstid 1,0 og 09.11-køen». Tall: 1,0."
+GT-187,09.11-køen,K-34 linje 64,lest ordrett,"Fra «sensitiviteter brukstid 1,0 og 09.11-køen»."
+GT-188,"timer per år med hendelse og minste f der referansen fra 3d passeres; uten referanse deskriptivt, ingen egen terskel.",K-34 linje 65,lest ordrett,Verdi = teksten etter «Utfall: ».
+GT-189,recon-uka 26.10–01.11.2026 (bare min/maks) er sett før prereg.,K-34 linje 67,lest ordrett,
+GT-190,ingen JAO-rådata eller avledede serier publiseres før skriftlig samtykke fra JAO.,K-34 linje 68,lest ordrett,
+GT-191,"The author made the methodological choices, had every figure checked against its source, and is responsible for the content.",K-34 linje 70,lest ordrett,"Sitatet mellom «» etter «AI-erklæring, fast forfatterlinje:»."
+GT-192,"Metode (brukes, oppfinnes ikke): import-/eksport-headroom = realisert sonenettoposisjon mot min/maks (arXiv 2607.00977).",K-34 linje 16,lest ordrett,"Hele punktet; kjernefrasen er «Metode (brukes, oppfinnes ikke)»; metoden er headroom = realisert sonenettoposisjon mot min/maks (arXiv 2607.00977)."
+GT-193,"hva NP og domene fanger og ikke; andre soners køer utenfor; domenet flytter seg med stor ny last (F0/linearisering); min/maks ikke samtidig gjennomførbare → optimistisk øvre grense; systemegenskaper (fos § 14), spenning og stabilitet utenfor metoden.",K-34 linje 66,lest ordrett,"Hele lista etter «Naboer og begrensninger: ». Tvetydig hvilket utsnitt som menes; kandidater: «domenet flytter seg med stor ny last (F0/linearisering)», «min/maks ikke samtidig gjennomførbare → optimistisk øvre grense», «systemegenskaper (fos § 14), spenning og stabilitet utenfor metoden» (pluss «hva NP og domene fanger og ikke»; «andre soners køer utenfor» = GT-194)."
+GT-194,andre soners køer utenfor,K-34 linje 66,lest ordrett,
+GT-195,"Hull i dekningen skrives inn i preregistreringen som en deklarert begrensning, ikke glattes over.",K-37 linje 10,lest ordrett,Siste setning på linje 10.
+GT-196,"Kurven setter w = q = f for f = 0,00–1,00.",K-14 linje 59,lest ordrett,
+GT-197,"L = (E_ref − E_y) + 0,70 × (w × R_new + q × Q)",K-14 linje 56,lest ordrett,
+GT-198,"R_new = max(0, R − E_ref / 0,70)",K-14 linje 56,lest ordrett,"Etterfølges av «og 0,70 er NVEs brukstid»."
+GT-199,2025,K-22 linje 29 (E_ref_aar),"lest (json.load, nøkkel E_ref_aar)",
+GT-200,"2023, 2024, 2025",K-22 linje 2–28 (E_MW),"beregnet: json.load, mengden av årsnøkler under E_MW per sone; identisk for alle fem soner",3 år; samme sett i NO1–NO5.
+GT-201,"F_GRID = np.round(np.arange(0, 101) / 100.0, 2)",K-38 linje 33,"lest ordrett; kontrollert i numpy: 101 punkter, 0,00–1,00, steg 0,01",
+GT-202,2 220,"K-20 linje 10, celle 6",lest (tabellrad splittet på |),Rad NO1: Kø 09.11.
+GT-203,1 950,"K-20 linje 11, celle 3",lest (tabellrad splittet på |),Rad NO2: Reservert 09.11.
+GT-204,96,"K-20 linje 12, celle 3",lest (tabellrad splittet på |),Rad NO3: Reservert 09.11.
+GT-205,477,"K-20 linje 13, celle 3",lest (tabellrad splittet på |),Rad NO4: Reservert 09.11.
+GT-206,"Alle serier legges på JAO-dataenes MTU med varighetsvekting, uten interpolering av manglende verdier. Delperiodene før og etter MTU-skiftet (dato fra 3a) rapporteres hver for seg og samlet; resultater oppgis per time og per MTU.",K-40 linje 26,lest ordrett,Teksten mellom «» etter «Ny beslutningstekst:».
+GT-207,"«native 15 min, også per time» er feil gitt GT-167.",K-40 linje 26,lest ordrett,Linja begynner «6. RETT GT-181: ...».
+GT-208,Hydro Water Reservoir,K-35 linje 12,lest (produksjonstype i A68-JSON for NO5),Tolkning: regulerbar vannkraft = magasinkraft. Alternativ kandidat: «Hydro Pumped Storage» (pumpekraft). «Hydro Run-of-river and pondage» er elvekraft (uregulerbar). Typen står også i NO1–NO4 (linje 8–11).

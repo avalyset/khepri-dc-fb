@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use KHEPRI-DC-FB, please cite it as below."
+title: "KHEPRI-DC-FB v1.0: Data-centre queues against flow-based import limits in the Norwegian bidding zones: a preregistered descriptive analysis"
+abstract: >-
+  Preregistered descriptive analysis of how many market time units the
+  data-centre queue in each Norwegian bidding zone, added as load, would
+  require more import than the published flow-based minimum net position
+  allows, 2024-10-30 to 2026-10-31. Realised net position from JAO
+  fbDomainShadowPrice, minimum net position from JAO maxNetPos (source:
+  JAO Nordic Publication Tool). No JAO raw data or time series are included.
+type: software
+authors:
+  - family-names: "Botten Nicolaysen"
+    given-names: "Eirik"
+    orcid: "https://orcid.org/0009-0001-9188-6788"
+    affiliation: "EcoDeco AS"
+license: [CC-BY-4.0, Apache-2.0]
+version: "1.0"
+doi: "10.5281/zenodo.24100435"
+date-released: "2026-11-10"
+repository-code: "https://github.com/avalyset/khepri-dc-fb"
+keywords: [data centres, bidding zones, flow-based, net position, JAO, Statnett, preregistration]
+references:
+  - type: software
+    title: "KHEPRI-DC v1.0.0: Timevis nettoposisjon per norsk budområde 2023–2025 med datasenterkøen lagt på"
+    doi: "10.5281/zenodo.23887356"
+    authors:
+      - family-names: "Botten Nicolaysen"
+        given-names: "Eirik"

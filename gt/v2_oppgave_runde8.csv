@@ -1,0 +1,19 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-354,"Beslutning (K-70) om FORSLAG GT-354: pumpekraftleddet settes til 0 i NO1 og NO4, der A68 oppgir «n/e»",K-70,linje 6,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-355,Beslutning (K-70) om FORSLAG GT-355: operasjonalisering av JAO-MTU-skiftet,K-70,linje 7,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-356,"Beslutning (K-70) om FORSLAG GT-356: A11-kontrollen av fortegnet (Pearson, alle NO-soner samlet, negativ = motsigelse)",K-70,linje 8,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-357,"Beslutning (K-70) om FORSLAG GT-357: MTU med H(t) < 0 beholdes, vurderes som andre MTU og telles",K-70,linje 9,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-358,Beslutning (K-70) om FORSLAG GT-358: prioritet mellom lagrede ENTSO-E-kilder (K foran X foran F foran R),K-70,linje 10,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-359,Beslutning (K-70) om FORSLAG GT-359: A68-verdien for kalenderåret MTU-en ligger i,K-70,linje 11,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-360,Beslutning (K-70) om FORSLAG GT-360: andeler over blandet MTU-lengde og delår (presisering av GT-206),K-70,linje 12,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-361,"Beslutning (K-70) om FORSLAG GT-361: periodens grenser [2024-10-30T00:00Z, 2026-11-01T00:00Z)",K-70,linje 13,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-362,K-70: hva som skjer hvis A75 har pumpekraftproduksjon der A68 oppgir «n/e»,K-70,linje 6,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-363,"K-71: A75 i NO1, perioden: produksjonsserier/-kolonner med Hydro Pumped Storage, verdier i perioden, filer lest",K-71,linje 6,kilder/K-71_A75_pumpekraft_NO1_NO4_2026-11-09.txt
+GT-364,"K-71: A75 i NO4, perioden: produksjonsserier/-kolonner med Hydro Pumped Storage, verdier i perioden, filer lest",K-71,linje 8,kilder/K-71_A75_pumpekraft_NO1_NO4_2026-11-09.txt
+GT-365,"K-71: positiv kontroll A75 i NO2: produksjonsserier/-kolonner med Hydro Pumped Storage, verdier i perioden, filer lest",K-71,linje 10,kilder/K-71_A75_pumpekraft_NO1_NO4_2026-11-09.txt
+GT-366,K-70 (GT-356): korrelasjonen per sone,K-70,linje 8,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-367,K-70 (GT-357): hva prereg skal si om hendelse når H(t) < 0 og om raden f = 0,K-70,linje 9,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-368,"K-70 (fortegn): hva prereg skal oppgi om hvor definisjonen står, og hvorfor A11-kontrollen kjøres",K-70,linje 15,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-369,K-70 (GT-319): E_y for 2026,K-70,linje 16,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-370,"K-70 (GT-342): hva prereg skal deklarere om reservert og tilknyttet, og effekten",K-70,linje 17,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt
+GT-371,K-70: rekkefølgen før port A,K-70,linje 18,kilder/K-70_BESLUTNING_forslag_GT-354-361_2026-11-09.txt

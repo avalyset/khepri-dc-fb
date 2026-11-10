@@ -1,0 +1,8 @@
+gt_id,verdi,sted,metode,kommentar
+GT-546,JAO-rådata og JAO-tidsserier publiseres ikke.,linje 4,sed -n '4p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,
+GT-547,"Det publiseres resultater (utfallstabeller og tall i manuskriptet), med JAO oppgitt som kilde, og kode med henteskript slik at andre kan hente dataene selv.",linje 4,sed -n '4p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,
+GT-548,Port B venter ikke på skriftlig samtykke fra JAO.,linje 5,sed -n '5p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,
+GT-549,Fjern det kravet fra port B i PUBLISERINGSPORT.md (egen commit).,linje 5,sed -n '5p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,
+GT-550,"Endringen og begrunnelsen føres i AVVIK_FRA_PREREG.md, siden PUBLISERINGSPORT.md også ligger i OSF-registreringen.",linje 5,sed -n '5p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,
+GT-551,"Skulle JAO ha innvendinger etter publisering, håndteres det med en rettelse.",linje 6,sed -n '6p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,
+GT-552,Ingen henvendelse til JAO.,linje 7,sed -n '7p' kilder/K-92_Eirik_beslutning_publisering_portB_2026-11-10.txt; substring-sjekk mot linja,linja har ikke innledende «- »; hele linja er én setning

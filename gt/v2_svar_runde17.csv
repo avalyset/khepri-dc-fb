@@ -1,0 +1,12 @@
+gt_id,verdi,sted,metode,kommentar
+GT-557,3cee685765895c56e866f9165725e99e6fe0e0aa258414c18aaefd610f608f8f,resultater/utfall.csv,shasum -a 256 + hashlib (samsvar),
+GT-558,5afd1e087d6daeb87ff621c96d77b4a23f1129367c9e9b522acefd7a33f5e5f4,resultater/h_under_null.csv,shasum -a 256 + hashlib (samsvar),
+GT-559,7a6dcc92f129dc897f4d744818fe7e599cb91680eaa30234a5e7349c62296675,resultater/manglende_per_maaned.csv,shasum -a 256 + hashlib (samsvar),
+GT-560,c6cc8596249971e055fea157d4d174c0bed583db2a5a732cedb3ad3f60564f7c,resultater/L_f.csv,shasum -a 256 + hashlib (samsvar),
+GT-561,0,kilder/K-93_sammenligning_utfall_uavhengig_2026-11-10.txt linje 6,sed -n '6p',linja lyder «ULIKHETER I ALT 0»
+GT-562,"rader A 30300, rader B 30300, parret 30300, celler 272700, ulike 0",kilder/K-93_sammenligning_utfall_uavhengig_2026-11-10.txt linje 2,sed -n '2p',
+GT-563,"rader A 15, rader B 15, parret 15, celler 30, ulike 0",kilder/K-93_sammenligning_utfall_uavhengig_2026-11-10.txt linje 3,sed -n '3p',
+GT-564,"rader A 250, rader B 250, parret 250, celler 1000, ulike 0",kilder/K-93_sammenligning_utfall_uavhengig_2026-11-10.txt linje 4,sed -n '4p',
+GT-565,"rader A 4545, rader B 4545, parret 4545, celler 4545, ulike 0",kilder/K-93_sammenligning_utfall_uavhengig_2026-11-10.txt linje 5,sed -n '5p',
+GT-566,2026-05-28 (døgnstart 2026-05-27T22:00Z),kilder/K-94_uavhengig_omregning_METODE_2026-11-10.md linje 15,sed -n '15p',"tabellrad «samlet (seneste)»: første døgn med bare 15-min MTU 2026-05-28, døgnstart UTC 2026-05-27T22:00Z; begge oppgitt"
+GT-567,0.92887,kilder/K-94_uavhengig_omregning_METODE_2026-11-10.md linje 29,sed -n '29p',"tabellrad «samlet»: r 0.92887, par 75380"

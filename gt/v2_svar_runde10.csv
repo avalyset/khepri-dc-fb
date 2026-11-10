@@ -1,0 +1,14 @@
+gt_id,verdi,sted,metode,kommentar
+GT-380,300 / 49 / 25,K-75 rader med hentet_utc >= 2026-11-09T17:38:14Z (374 av 390); status OK per dok,"python3 -I csv.DictReader, filter + telling",alle 374 rader i hullhentingen har status OK
+GT-381,374,K-75 rader med hentet_utc >= 2026-11-09T17:38:14Z (374 av 390),"python3 -I, antall rader",tilsvarer «bare 374 hull» i K-74 linje 20
+GT-382,0,K-75 rader med hentet_utc >= 2026-11-09T17:38:14Z (374 av 390); status != OK,"python3 -I, telling",ingen rader med annen status enn OK
+GT-383,4 / 5,K-75 rader med hentet_utc >= 2026-11-09T17:38:14Z (374 av 390); forsok > 1 og sum(forsok-1),"python3 -I, telling og sum","A75 NO_5 2026-09 (2), A11 NO_1>NO_5 2026-10 (2), A11 NO_5>NO_1 2026-10 (2), A11 NO_3>NO_4 2026-04 (3)"
+GT-384,5,K-74 linjer etter linje 20 (eneste forekomst av «bare 374 hull»),grep-telling av «HTTP 599»,"linjer 93, 145, 156, 281, 282; samme 5 som i hele filen; konsistent med GT-383-sum 5"
+GT-385,2026-11-09T19:50:37Z,K-74 linje 400,les linja med SLUTT,
+GT-386,2026-11-09T18:04:55Z 2026-11-09T19:50:37Z,"K-75 rader med hentet_utc >= 2026-11-09T17:38:14Z (374 av 390); dok A11, min og maks hentet_utc","python3 -I, sortering av ISO-strenger (alle lengde 20)",
+GT-387,A03 PT15M,"K-75 rader med hentet_utc >= 2026-11-09T17:38:14Z (374 av 390); unike (kurvetyper, opploesninger)","python3 -I, Counter","én kombinasjon, 374 rader; i hele K-75 finnes også A03 PT60M (5) og A03 «PT15M PT60M» (1), men utenfor hullhentingen"
+GT-388,30,"K-73 dok A11, unike omraade","python3 -I, set",
+GT-389,750 / 750,K-73 dok A11; union_andel == 1.0000 / alle,"python3 -I, telling","Rådata-omregning 2026-01–2026-10 (egen kode, xml.etree, A03-hold til neste posisjon/periodeslutt, kvarter i UTC-måned): 300 / 300 retning-måneder fullt dekket (30 retninger × 10 måneder, alle Publication_MarketDocument, A03, PT15M). Kontroll: uten A03-hold (kun punktets eget kvarter) blir bare 7 / 300 fulle, så hold-regelen er avgjørende."
+GT-390,125 / 125,K-73 dok «A11-sone(min)»; union_andel == 1.0000 / alle,"python3 -I, telling",
+GT-391,125 / 125,K-73 dok A75; union_andel == 1.0000 / alle,"python3 -I, telling",
+GT-392,118 / 125,K-73 dok A65; union_andel == 1.0000 / alle,"python3 -I, telling","7 rader under 1: 0.9990 (4), 0.9997 (2), 0.9986 (1)"

@@ -1,0 +1,14 @@
+gt_id,verdi,sted,metode,kommentar
+GT-731,"2026-01;0/27;0/105;R: produksjon 2871, pumpeintervall 0, datahull 105",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 3,sed -n 3p + split på første ;,sone NO_2 stemmer med påstanden
+GT-732,"2026-02;0/68;0/251;R: produksjon 2437, pumpeintervall 0, datahull 251",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 4,sed -n 4p + split på første ;,sone NO_2 stemmer med påstanden
+GT-733,"2026-03;0/253;0/928;R: produksjon 2048, pumpeintervall 0, datahull 928",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 5,sed -n 5p + split på første ;,sone NO_2 stemmer med påstanden
+GT-734,"2026-04;0/229;0/858;R: produksjon 2022, pumpeintervall 0, datahull 858",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 6,sed -n 6p + split på første ;,sone NO_2 stemmer med påstanden
+GT-735,"2026-05;0/273;0/1023;R: produksjon 1953, pumpeintervall 0, datahull 1023",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 7,sed -n 7p + split på første ;,sone NO_2 stemmer med påstanden
+GT-736,"2025-10;0/4;0/13;X: produksjon 2402, pumpeintervall 561, datahull 13 | F: produksjon 2402, pumpeintervall 561, datahull 13 | R: produksjon 2402, pumpeintervall 0, datahull 574",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 8,sed -n 8p + split på første ;,sone NO_3 stemmer med påstanden
+GT-737,"2026-03;0/37;0/130;R: produksjon 2846, pumpeintervall 0, datahull 130",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 9,sed -n 9p + split på første ;,sone NO_3 stemmer med påstanden
+GT-738,"2026-04;0/128;0/500;R: produksjon 2380, pumpeintervall 0, datahull 500",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 10,sed -n 10p + split på første ;,sone NO_3 stemmer med påstanden
+GT-739,"2026-05;0/479;0/1898;R: produksjon 1078, pumpeintervall 0, datahull 1898",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 11,sed -n 11p + split på første ;,sone NO_3 stemmer med påstanden
+GT-740,"2025-11;0/5;0/5;X: produksjon 2570, pumpeintervall 305, datahull 5 | F: produksjon 2570, pumpeintervall 305, datahull 5 | R: produksjon 2570, pumpeintervall 0, datahull 310",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 12,sed -n 12p + split på første ;,sone NO_5 stemmer med påstanden
+GT-741,"2026-03;0/5;0/18;R: produksjon 2958, pumpeintervall 0, datahull 18",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 13,sed -n 13p + split på første ;,sone NO_5 stemmer med påstanden
+GT-742,"2026-04;0/29;0/103;R: produksjon 2777, pumpeintervall 0, datahull 103",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 14,sed -n 14p + split på første ;,sone NO_5 stemmer med påstanden
+GT-743,"2026-05;0/247;0/981;R: produksjon 1995, pumpeintervall 0, datahull 981",kilder/K-116_sekundaermaal_manglende_timer_2026-11-10.txt linje 15,sed -n 15p + split på første ;,sone NO_5 stemmer med påstanden

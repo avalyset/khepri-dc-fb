@@ -1,0 +1,10 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-393,K-25 (JAO-håndboka): eksempel på at et forretningsdøgn (EDD) i sommertid starter 22:00 UTC dagen før,K-25,PDF-side 28,kilder/txt/K-25.txt
+GT-394,K-25: merknad om dateTimeUtc i API-svar som følger Core-strukturen,K-25,PDF-side 22,kilder/txt/K-25.txt
+GT-395,K-14 (v1-manus): hva R og Q betegner,K-14,linje 47,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-396,K-76: Claude Code-versjon i hovedloggen,K-76,linje 6,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt
+GT-397,K-76: hovedøktas assistentsvar per modell,K-76,linje 7,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt
+GT-398,K-76: tidsrom for claude-sonnet-5-5 i hovedøkta,K-76,linje 9,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt
+GT-399,K-76: tidsrom for claude-opus-5-5 i hovedøkta (fram til lesingen),K-76,linje 8,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt
+GT-400,K-76: underagentlogger per modell,K-76,linje 12,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt
+GT-401,K-76: modell-ID for chat-Claude (Eiriks gjennomgang),K-76,linje 14,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt

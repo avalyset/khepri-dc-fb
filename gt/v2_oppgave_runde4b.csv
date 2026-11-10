@@ -1,0 +1,48 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-135,"Kildearkivet slik det var i steg 2 (K-01–K-33): sider der datasenter-ord og nettoposisjonsord står sammen (bare v1s egne filer, der NP = produksjon − last)",K-14,"beregnet — tell/les selv i kildeteksten slik påstanden beskriver (gjelder bare kildene K-01 til K-33, unntatt K-34; PDF-kilder: tekst i kilder/txt/<K-ID>.txt, side for side; tell sider der begge mønstrene forekommer: GT-135: «datasent|data cent|datacent» og «nettoposisjon|net position|netpos»; GT-136: «reliability standard|pålitelighetsstandard|LOLE|EENS» og «Norw|Norge|NOS1|\bNO[1-5]\b», store/små bokstaver ignoreres; oppgi K-ID:side eller «ingen»)",kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-136,Kildearkivet slik det var i steg 2 (K-01–K-33): sider med pålitelighetsstandard-/LOLE-/EENS-ord sammen med Norge/norske soner,K-11,"beregnet — tell/les selv i kildeteksten slik påstanden beskriver (gjelder bare kildene K-01 til K-33, unntatt K-34; PDF-kilder: tekst i kilder/txt/<K-ID>.txt, side for side; tell sider der begge mønstrene forekommer: GT-135: «datasent|data cent|datacent» og «nettoposisjon|net position|netpos»; GT-136: «reliability standard|pålitelighetsstandard|LOLE|EENS» og «Norw|Norge|NOS1|\bNO[1-5]\b», store/små bokstaver ignoreres; oppgi K-ID:side eller «ingen»)",kilder/txt/K-11.txt
+GT-244,Beslutning (K-50): arXiv i denne runden,K-50,linje 17,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-245,Beslutning (K-50): OSF-låsing,K-50,linje 18,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-246,"Beslutning (K-50): Zenodo får eget konsept, ikke ny versjon av KHEPRI-DC v1",K-50,linje 19,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-247,Beslutning (K-50): konsept-DOI for KHEPRI-DC v1 (ikke ny versjon av denne),K-50,linje 19,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-248,Beslutning (K-50): ingen Zenodo-publisering i denne runden,K-50,linje 19,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-249,Beslutning (K-50): én publisering per objekt,K-50,linje 20,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-250,Beslutning (K-50): port A — vilkår for prereg-låsing,K-50,linje 28,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-251,Beslutning (K-50): port B — samtykke fra JAO før publisering,K-50,linje 29,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-252,Beslutning (K-50): port B — øvrige vilkår,K-50,linje 29,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-253,Beslutning (K-50): ingen port hoppes over,K-50,linje 30,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-254,Beslutning (K-50): frysregelens feilklasser a–f,K-50,linje 35,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-255,Beslutning (K-50): gjennomgangsløkka i port A har tak,K-50,linje 37,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-256,"Beslutning (K-50): preregistreringen skal oppgi sha256 og OTS-filnavn, og ikke inneholde JAO-data",K-50,linje 32,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-257,Beslutning (K-50): hva som lastes opp til OSF,K-50,linje 41,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-258,"Beslutning (K-50): ingen push, Zenodo eller arXiv i denne runden",K-50,linje 43,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt
+GT-259,OSF hncz5: registreringstype (mal),K-51,linje 8,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-260,OSF hncz5: embargo,K-51,linje 7,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-261,OSF hncz5: lisens,K-51,linje 19,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-262,OSF hncz5: register,K-51,linje 10,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-263,OSF hncz5: tilknyttet prosjekt,K-51,linje 12,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-264,OSF hncz5: fagområder,K-51,linje 16,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-265,Zenodo-tittel for konsept-DOI 10.5281/zenodo.23887355 (løses til siste versjon),K-52,linje 33,kilder/K-52_doi_10.5281_zenodo.23887355.json
+GT-266,Beslutning (K-53): første steg i port B — embargo avsluttes minst 48 timer før publisering,K-53,linje 11,kilder/K-53_PRESISERING3_OSF_2026-11-09.txt
+GT-267,Beslutning (K-53): ikke registrer under Khepri-TSFM-prosjektet,K-53,linje 7,kilder/K-53_PRESISERING3_OSF_2026-11-09.txt
+GT-268,Beslutning (K-53): embargo,K-53,linje 10,kilder/K-53_PRESISERING3_OSF_2026-11-09.txt
+GT-269,Beslutning (K-53): framdriften i hullhentingen rapporteres mot,K-53,linje 13,kilder/K-53_PRESISERING3_OSF_2026-11-09.txt
+GT-270,Beslutning (K-53): registrering uten prosjekt foretrekkes,K-53,linje 8,kilder/K-53_PRESISERING3_OSF_2026-11-09.txt
+GT-271,OSF Help 330: forespørsel om å avslutte embargo godkjennes automatisk etter,K-54,linje 409,kilder/K-54_OSF_help_330_welcome-to-registrations.txt
+GT-272,OSF Help 330: en ny registrering får alltid et tilknyttet OSF-prosjekt,K-54,linje 160,kilder/K-54_OSF_help_330_welcome-to-registrations.txt
+GT-273,OSF Help 330: registrering fra bunnen av — steg 1,K-54,linje 174,kilder/K-54_OSF_help_330_welcome-to-registrations.txt
+GT-274,OSF Help 330: embargo maksimalt,K-54,linje 69,kilder/K-54_OSF_help_330_welcome-to-registrations.txt
+GT-275,OSF Help 768: OSF-prosjekt kreves ikke for å registrere,K-55,"linje 25, linje 73, linje 102",kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-276,OSF Help 768: tilknyttet prosjekt blir skrivebeskyttet,K-55,linje 71,kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-277,OSF Help 768: registreringen er en egen post og påvirkes ikke,K-55,linje 71,kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-278,OSF Help 770: nye prosjekter kan ikke opprettes etter,K-56,linje 27,kilder/K-56_OSF_help_770_projects-changes-registrations.txt
+GT-279,OSF Help 770: nye registreringer og preregistreringer kan fortsatt lages,K-56,linje 25,kilder/K-56_OSF_help_770_projects-changes-registrations.txt
+GT-280,"OSF Help 770: fra 19. februar lages nye registreringer direkte i OSF Registries / My Registrations, ikke fra et prosjekt",K-56,linje 25,kilder/K-56_OSF_help_770_projects-changes-registrations.txt
+GT-281,OSF Help 770: prosjekter laget gjennom registreringsprosessen blir skrivebeskyttet,K-56,linje 27,kilder/K-56_OSF_help_770_projects-changes-registrations.txt
+GT-282,OSF Help 768: nye registreringer kan lages etter at nye prosjekter ikke lenger kan opprettes,K-55,linje 102,kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-283,OSF Help 768: bare prosjektflyten endres i november,K-55,linje 53,kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-284,OSF Help 768: registrering fra eksisterende prosjekt slås av,K-55,linje 59,kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-285,OSF Help 768: sist oppdatert,K-55,linje 203,kilder/K-55_OSF_help_768_transition-registration-QA.txt
+GT-286,OSF Help 330: sist oppdatert,K-54,linje 587,kilder/K-54_OSF_help_330_welcome-to-registrations.txt
+GT-287,OSF Help 770: sist oppdatert,K-56,linje 41,kilder/K-56_OSF_help_770_projects-changes-registrations.txt
+GT-288,Fraværsbelegg: K-55 og K-56 sier ikke om en registrering «from scratch» etter 16.11 får tilknyttet prosjekt (linjer med «connected» i K-55 / K-56),K-55,beregnet — tell/les selv i kildeteksten slik påstanden beskriver (tell linjer som inneholder «connected» i K-55 og i K-56; oppgi «K-55 / K-56»),kilder/K-55_OSF_help_768_transition-registration-QA.txt

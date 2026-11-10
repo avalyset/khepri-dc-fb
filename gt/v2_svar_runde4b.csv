@@ -1,0 +1,48 @@
+gt_id,verdi,sted,metode,kommentar
+GT-135,"K-14, K-15, K-29","K-14 linje 2; K-15 linje 3; K-29 linje 7, 30, 33 (ikke-PDF: hel fil = én side)","beregnet (egen Python-regex over K-01–K-33, PDF side for side via kilder/txt, øvrige som hel fil)","Treff bare i ikke-PDF-filer (alle v1s egne: manus, README, DOI-metadata 23887356), ingen PDF-side har begge mønstrene. Hvis ikke-PDF skal oppgis som side 1: K-14:1, K-15:1, K-29:1. K-26 og K-33 finnes ikke i kilder/. K-14 alene (kildekolonnen) er ett av tre treff; i K-14 forekommer NP-ordet bare på linje 2 (tittel)."
+GT-136,ingen,kilder/txt/K-11.txt alle 53 sider; øvrige K-01–K-33,"beregnet (egen Python-regex, side for side)","Ingen side i K-01–K-33 har begge mønstrene. K-11: standard-/LOLE-/EENS-ord på 29 sider (3–50), Norge-mønster bare på s. 2 (Norw) og s. 34 (Norw/NOS1/NO1), aldri på samme side."
+GT-244,ingen innsending i denne runden.,K-50 linje 17,ordrett lesing,"Hele linja: - arXiv: ingen innsending i denne runden. Kvoten er brukt til desember. Eksisterende arXiv-arbeider (MS-1, KHEPRI-DC v1 m.fl.) røres ikke og erstattes ikke."
+GT-245,"preregistreringen låses nå, i denne runden, når port A er grønn.",K-50 linje 18,ordrett lesing,
+GT-246,KHEPRI-DC-FB får eget konsept (ikke ny versjon av KHEPRI-DC v1,K-50 linje 19,ordrett lesing,Kjerne: «eget konsept»; relasjon «references»/«isSupplementTo» i stedet.
+GT-247,10.5281/zenodo.23887355,K-50 linje 19,ordrett lesing,
+GT-248,Ingen Zenodo-publisering i denne runden.,K-50 linje 19,ordrett lesing,
+GT-249,"Én publisering per objekt, ingen versjonsrunder.",K-50 linje 20,ordrett lesing,
+GT-250,frysregel a–f lest linje for linje fra disk; check_anchors.py grønn; uavhengig gjennomgang av egen Opus-underagent; alle tall VERIFISERT×2.,K-50 linje 28,ordrett lesing,Fire vilkår: frysregel a–f lest linje for linje fra disk; check_anchors.py grønn; uavhengig gjennomgang av egen Opus-underagent; alle tall VERIFISERT×2.
+GT-251,skriftlig samtykke fra JAO foreligger og er arkivert som kilde i GT,K-50 linje 29,ordrett lesing,
+GT-252,"alle tall VERIFISERT×2; check_anchors.py grønn; fullt avhengighetssøk etter gamle verdier i alle artefakter; frysregel a–f; uavhengig gjennomgang; Brevet sist; Zenodo eget konsept, versjon 1.0, .zenodo.json med isSupplementTo til taggen; arXiv tidligst desember som ny innsending, Comments ≤ 400 tegn målt.",K-50 linje 29,ordrett lesing,Alt etter JAO-vilkåret i port B.
+GT-253,Ingen port hoppes over; ingen publisering «for å rette etterpå».,K-50 linje 30,ordrett lesing,Kjerne: «Ingen port hoppes over»
+GT-254,"intern numerisk selvmotsigelse, påstand mot tabellverdi, metrikk-overclaim, uverifiserte eksterne tall, stale status, tittel/metadata mot innhold",K-50 linje 35,ordrett lesing,
+GT-255,Maks 2 runder.,K-50 linje 37,ordrett lesing,"Også linje 10: «gjennomgangsløkka i port A har tak på 2 runder». Linje 37 fortsetter: «Gjenstår funn etter runde 2: STOPP, ingen låsing, rapporter.»"
+GT-256,"Preregistreringen skal oppgi sha256 for GROUND_TRUTH.md, KILDER_MANIFEST.csv og POSISJONERING.md og navnene på OTS-filene fra steg 6, og skal ikke inneholde JAO-data.",K-50 linje 32,ordrett lesing,
+GT-257,"Last opp preregistreringen, KDF-0001 og PUBLISERINGSPORT.md. GT, kildearkiv og data lastes IKKE opp.",K-50 linje 41,ordrett lesing,"Opplasting: preregistreringen, KDF-0001 og PUBLISERINGSPORT.md; ikke GT, kildearkiv, data."
+GT-258,"Ingen push, ingen Zenodo, ingen arXiv i denne runden.",K-50 linje 43,ordrett lesing,
+GT-259,Secondary Data Preregistration,K-51 linje 9 (overskrift «Registration Type» linje 8),ordrett lesing,"Verdien står på linje 9, under feltnavnet på linje 8."
+GT-260,It will remain private until Fri Dec 31 2027.,K-51 linje 7,ordrett lesing,Kjerne: Fri Dec 31 2027 (privat til og med/fram til denne datoen).
+GT-261,CC-By Attribution 4.0 International,K-51 linje 20 (feltnavn «License» linje 19),ordrett lesing,
+GT-262,OSF Registries,K-51 linje 11 (feltnavn «Registry» linje 10),ordrett lesing,
+GT-263,https://osf.io/dbwvx,K-51 linje 13 (feltnavn «Associated Project» linje 12),ordrett lesing,
+GT-264,Engineering; Physical Sciences and Mathematics,K-51 linje 17–18 (feltnavn «Subjects» linje 16),ordrett lesing,To fag på hver sin linje.
+GT-265,KHEPRI-DC v1.0.0: Timevis nettoposisjon per norsk budområde 2023–2025 med datasenterkøen lagt på,K-52 linje 33,ordrett lesing,Versjon 1.0.0 (linje 36).
+GT-266,"Be om å avslutte embargoen på OSF-registreringen minst 48 timer før publisering, og bekreft at den er offentlig før Zenodo-publisering.",K-53 linje 11,ordrett lesing,
+GT-267,Ikke registrer under osf.io/dbwvx (Khepri-TSFM).,K-53 linje 7,ordrett lesing,
+GT-268,Embargo til 31.12.2027.,K-53 linje 10,ordrett lesing,Kjerne: 31.12.2027
+GT-269,374,K-53 linje 13,ordrett lesing,"Ordrett: mot 374 (hentet av 374), ikke 390."
+GT-270,Sjekk først i OSF om en registrering kan opprettes uten prosjekt; foretrekk det.,K-53 linje 8,ordrett lesing,
+GT-271,48 hours,K-54 linje 409,ordrett lesing,Ordrett: the request to end the embargo early will automatically approve after 48 hours.
+GT-272,"In both cases, the new registration will have a connected OSF project for continuing the research lifecycle, where you can show and share your work.",K-54 linje 160,ordrett lesing,Variant linje 170: «...connected OSF project for added flexibility and collaboration...»
+GT-273,Step 1: “Do you have content for registration in an existing OSF project?” Select “No”,K-54 linje 174,ordrett lesing,Kjerne: Select “No”
+GT-274,Maximum 4 years from creation date,K-54 linje 69,ordrett lesing,Ordrett: placed under embargo (Maximum 4 years from creation date).
+GT-275,An OSF Project is not required to create a registration.,"K-55 linje 25, 73, 102",ordrett lesing,Identisk setning på alle tre linjer.
+GT-276,"The associated project will become read-only on February 19, 2027.",K-55 linje 71,ordrett lesing,"Kjerne: February 19, 2027"
+GT-277,Your registration is a separate record and is not affected by the changes to OSF Projects.,K-55 linje 71,ordrett lesing,
+GT-278,November 16,K-56 linje 27,ordrett lesing,Ordrett: New projects and components can no longer be created after November 16.
+GT-279,You can continue registering and preregistering research plans.,K-56 linje 25,ordrett lesing,
+GT-280,"Beginning February 19, new registrations will be created directly through OSF Registries or your My Registrations page rather than from an OSF Project.",K-56 linje 25,ordrett lesing,Ingen årstall i setningen.
+GT-281,Existing projects—including those used to create a registration or created through the registration process—will become read-only on February 19.,K-56 linje 27,ordrett lesing,Kjerne: will become read-only on February 19
+GT-282,You can continue creating new registrations through the OSF Registration workflow after new projects can no longer be created.,K-55 linje 102,ordrett lesing,
+GT-283,ONLY OSF project workflows will be changing in November.,K-55 linje 53,ordrett lesing,
+GT-284,"registering using an existing project will be disabled on Feb 19, 2027.",K-55 linje 59,ordrett lesing,"Kjerne: Feb 19, 2027"
+GT-285,"November 6, 2026",K-55 linje 203,ordrett lesing,"Ordrett: Last updated on November 6, 2026"
+GT-286,"November 1, 2026",K-54 linje 587,ordrett lesing,"Ordrett: Last updated on November 1, 2026"
+GT-287,"September 30, 2026",K-56 linje 41,ordrett lesing,"Ordrett: Last updated on September 30, 2026"
+GT-288,0 / 0,"K-55 og K-56, alle linjer",beregnet (egen Python-telling av linjer med «connected»),Også 0/0 uten skille på store/små bokstaver (0/0). Til sammenligning har K-54 «connected OSF project» på linje 160 og 170.

@@ -1,0 +1,30 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-437,K-81: URL til OSF-registreringen av preregistreringen,K-81,"linje 6 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-438,"K-81: registreringstidspunkt (OSF date_registered, UTC)",K-81,"linje 8 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-439,K-81: embargo til,K-81,"linje 9 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-440,K-81: tilknyttet prosjekt (registered_from),K-81,"linje 12 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-441,K-81: registrert under osf.io/dbwvx (Khepri-TSFM)?,K-81,"linje 22 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-442,K-81: lisens,K-81,"linje 13 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-443,K-81: mal (registreringsskjema),K-81,"linje 14 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-444,K-81: fagområder,K-81,"linje 15 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-445,K-81: venter på godkjenning av embargo ved lesingen,K-81,"linje 10 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-446,K-81: sha256 for preregistreringen slik OSF lagret den,K-81,"linje 17 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-447,K-81: sha256 for KDF-0001 slik OSF lagret den,K-81,"linje 18 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-448,K-81: sha256 for PUBLISERINGSPORT.md slik OSF lagret den,K-81,"linje 16 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-449,K-81: OSF-beskrivelsen inneholder tarballens sha256,K-81,"linje 19 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-81_OSF_registrering_vd9np_2026-11-09.txt
+GT-450,K-82: tagg-objekt for prereg-v1,K-82,"linje 4 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-451,K-82: commit som prereg-v1 peker på,K-82,"linje 5 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-452,K-82: sha256 for git archive-tarballen av prereg-v1,K-82,"linje 12 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-453,K-82: sha256 for preregistreringen ved taggen,K-82,"linje 13 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-454,K-82: sha256 for KDF-0001 ved taggen,K-82,"linje 14 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-455,K-82: sha256 for PUBLISERINGSPORT.md ved taggen,K-82,"linje 15 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-456,K-82: sha256 for OTS-fila til tarballen,K-82,"linje 16 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-457,K-82: sha256 for OTS-fila til preregistreringen,K-82,"linje 17 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-458,K-82: sha256 for OTS-fila til KDF-0001,K-82,"linje 18 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-459,K-82: OTS-stempelet til tarballen gjelder tarballens sha256,K-82,"linje 23 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-460,"K-82: Vault-speilet, tarballen kontrollert mot SHA256SUMS",K-82,"linje 26 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-461,K-82: signaturen på taggen,K-82,"linje 6 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-82_laasemanifest_prereg-v1_2026-11-09.txt
+GT-462,K-83: lesetidspunkt for øktloggene ved låsing,K-83,"linje 2 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-83_oktlogg_underagenter_ved_laasing_2026-11-09.txt
+GT-463,"K-83: underagenter til blind GT-verifisering ved låsing, antall og modell",K-83,"linje 12 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-83_oktlogg_underagenter_ved_laasing_2026-11-09.txt
+GT-464,"K-83: underagenter til uavhengig gjennomgang i port A ved låsing, antall og modell",K-83,"linje 13 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-83_oktlogg_underagenter_ved_laasing_2026-11-09.txt
+GT-465,K-83: underagentlogger i alt ved låsing,K-83,"linje 10 (verdien slik den står etter feltnavnet/kolon, eller hashen foran filnavnet)",kilder/K-83_oktlogg_underagenter_ved_laasing_2026-11-09.txt

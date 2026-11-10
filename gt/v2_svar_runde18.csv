@@ -1,0 +1,34 @@
+gt_id,verdi,sted,metode,kommentar
+GT-568,This page contains data about the Day ahead Net Positions of each Bidding zone (real and virtual) calculated from the Day ahead market.,PDF-side 16,sitat: hele setningen (linjeskift normalisert til mellomrom),
+GT-569,The data is taken from the “Shadow Price and Flow FB” where the “NetPostion_BZ” CNECs “Flow_FB” value are extracted and published under each BZ and MTU on the “Net Position SDAC” page.,PDF-side 16,sitat: hele setningen (linjeskift normalisert),«NetPostion_BZ» er kildens stavemåte
+GT-570,https://publicationtool.jao.eu/nordic/api/data/fbDomainShadowPrice,PDF-side 21,lest ordrett fra tabellrad «Shadow Price & Flow_FB»,
+GT-571,0,linje 4,lest ordrett: «2024-10-29 rader_med_filter 0 hentet 2026-11-10T05:01:35Z»,forretningsdøgn 2024-10-29
+GT-572,744,linje 5,lest ordrett: «2024-10-30 rader_med_filter 744 hentet 2026-11-10T05:01:36Z»,første leveringsdøgn = forretningsdøgn 2024-10-30 (antatt)
+GT-573,"2025-06-15,744,744",linje 12,"CSV-felt doegn,rader,rader_med_filter","hele raden: 2025-06-15,744,744,601bf4d27605fb12be8455a70792c6fdb3dd1cad7df8a2f55640d74215da7bfe,1235096,2026-11-10T04:50:35Z,OK"
+GT-574,NetPosition_NO1=24 NetPosition_NO2=24 NetPosition_NO2_ND=24 NetPosition_NO2_NK=24 NetPosition_NO2_SK=24 NetPosition_NO3=24 NetPosition_NO4=24 NetPosition_NO5=24,linje 173,nøkkel: verdi,
+GT-575,flowFb,linje 172,feltnavn lest fra feltlista i linja,
+GT-576,1. URL https://publicationtool.jao.eu/nordic/Nordic_PublicationHandbook videresender til https://publicationtool.jao.eu/PublicationHandbook/Nordic_PublicationTool_Handbook_v1.8.1.pdf (samme versjon som K-25).,linje 5,hele setningen ordrett,versjon v1.8.1
+GT-577,"par 75380; avvik (>1e-9 MW) 0; >0,5 MW 0; >1 MW 0; største avvik 0.000000 MW; ulikt fortegn 0; netPos-MTU uten kandidat 0; kandidat-MTU uten netPos 0",linje 10,alt etter andre «;»,
+GT-578,TR article 12.1.e,PDF-side 54,"lest ordrett, Regulation Article under «Implicit allocations - the net positions & congestion income»",
+GT-579,The netted sum of electricity exports and imports (i.e. commercial schedules) shall be published for each bidding zone per market time unit with indicator whether the value represents import or export.,PDF-side 55,sitat: hele setningen (linjeskift normalisert),
+GT-580,The day-ahead implicit net position consists of the sum of all commercial exchanges across all bidding zone borders from implicit day-ahead allocations.,PDF-side 55,sitat: hele setningen (linjeskift normalisert),
+GT-581,5,beregnet,tellt rader i manifest med vindu 2024-10-30/2024-10-31 og status OK,NO_1 NO_2 NO_3 NO_4 NO_5 (5 rader totalt i vinduet)
+GT-582,5,beregnet,tellt rader i manifest med vindu 2025-06-15/2025-06-16 og status OK,NO_1 NO_2 NO_3 NO_4 NO_5 (5 rader totalt i vinduet)
+GT-583,5,beregnet,tellt rader i manifest med vindu 2026-03-15/2026-03-16 og status OK,NO_1 NO_2 NO_3 NO_4 NO_5 (5 rader totalt i vinduet)
+GT-584,5,beregnet,tellt rader i manifest med vindu 2026-05-27/2026-11-01 og status OK,NO_1 NO_2 NO_3 NO_4 NO_5 (5 rader totalt i vinduet)
+GT-585,in_Domain=REGION_CODE----- out_Domain=10YNO-4--------9,linje 6,CSV-felt domener,timeseries=1
+GT-586,"par 15076; avvik (>1e-9 MW) 4994; >0,5 MW 0; >1 MW 0; største avvik 0.005000 MW; ulikt fortegn 0; netPos-MTU uten kandidat 0; kandidat-MTU uten netPos 4",linje 11,alt etter andre «;»,
+GT-587,"par 15076; avvik (>1e-9 MW) 15014; >0,5 MW 13744; >1 MW 13744; største avvik 1449.005000 MW; ulikt fortegn 4048; netPos-MTU uten kandidat 0; kandidat-MTU uten netPos 4",linje 12,alt etter andre «;»,
+GT-588,"par 15076; avvik (>1e-9 MW) 14366; >0,5 MW 0; >1 MW 0; største avvik 0.005000 MW; ulikt fortegn 0; netPos-MTU uten kandidat 0; kandidat-MTU uten netPos 4",linje 13,alt etter andre «;»,
+GT-589,"par 15076; avvik (>1e-9 MW) 14441; >0,5 MW 0; >1 MW 0; største avvik 0.005000 MW; ulikt fortegn 0; netPos-MTU uten kandidat 0; kandidat-MTU uten netPos 4",linje 14,alt etter andre «;»,
+GT-590,"par 15076; avvik (>1e-9 MW) 14249; >0,5 MW 0; >1 MW 0; største avvik 0.005000 MW; ulikt fortegn 0; netPos-MTU uten kandidat 0; kandidat-MTU uten netPos 4",linje 15,alt etter andre «;»,
+GT-591,5,beregnet,tellt linjer med «høyst 2 desimaler»,NO_1 NO_2 NO_3 NO_4 NO_5
+GT-592,13744,beregnet,"minste av 16 tall etter «>0,01 MW» i linjer som starter med «ENTSOE mot hub_NO2»","oppnås for varianten (ingen), både + og −"
+GT-593,You need to be logged in to view this data.,linje 11,sitat lest ordrett fra linja,krever innlogging; linja viser også «No data»
+GT-594,NO2 Total Net Exchange (MW),linje 11,kolonnenavn lest ordrett,under overskrift «Net Exchange»
+GT-595,"You may download, store and use the contents of this website for use in connection with trading on the Nord Pool market, and for analysis or research of your firm or company, provided you keep intact all trademark, copyright and other proprietary notices.",linje 182,sitat: hele setningen,
+GT-596,"You may not republish, retransmit, redistribute or otherwise make the contents of this website available to any other party or make the same available on any website, on-line service or bulletin board of your own or of any other party or make the same available in hard copy or on any other media without our express prior written consent from Nord Pool.",linje 182,sitat: hele setningen,
+GT-597,Nord Pool does not permit automatic extraction of data or other usage that reduces the performance of the website.,linje 183,sitat: hele setningen,neste setning: «Any such extraction or usage will lead to the user being blocked from the website without further notice.»
+GT-598,"Data access to Nord Pool SFTP is free of charge for bachelor and master students. However, this does not include Nord Pool's real data products or any redistribution rights.",linje 113,sitat: hele linja (to setninger),begge setninger gjelder studenter
+GT-599,"For researchers and PhD students, we offer a 50% discount in any market data product.",linje 114,sitat: hele setningen,
+GT-600,Derived market data which is then redistributed in the market,linje 136,punkt lest ordrett,linja starter med punkttegn «§» (fjernet); rå linje: «§   Derived market data which is then redistributed in the market»

@@ -1,0 +1,5 @@
+gt_id,verdi,sted,metode,kommentar
+GT-553,2026-05-28,kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt linje 16,"sed -n '16p'; verdi1 (dato alene)","linja: mtu_skifte,netPos,,,2026-05-28,2026-05-27T22:00:00+00:00"
+GT-554,2025-10-01,kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt linje 17,"sed -n '17p'; verdi1 (dato alene)","linja: mtu_skifte,maxNetPos,,,2025-10-01,2025-09-30T22:00:00+00:00. ADVARSEL: samme fil motsier dette. dekning maxNetPos 2025-10 = 744/744 (timeoppløsning) i alle soner, og 2026-05 = 1038/1038, som stemmer med skifte 2026-05-27T22:00Z (646 t + 98 t x 4 = 1038). Linja er ført ordrett, men kilden er internt inkonsistent."
+GT-555,2026-05-28,kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt linje 18,"sed -n '18p'; verdi1 (dato alene)","linja: mtu_skifte,samlet (seneste),,,2026-05-28,2026-05-27T22:00:00+00:00"
+GT-556,2026-05-27T22:00:00+00:00,kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt linje 18,"sed -n '18p'; verdi2 (UTC-skille)","linja: mtu_skifte,samlet (seneste),,,2026-05-28,2026-05-27T22:00:00+00:00"

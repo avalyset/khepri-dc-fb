@@ -1,0 +1,32 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-178,"Bestillingen er datert (beslutningskilde, ikke faktakilde)",K-34,linje 1,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-179,Beslutning: forskningsspørsmålet,K-34,linje 61,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-180,Beslutning: analyseperiode,K-34,linje 62,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-181,"Beslutning: tidsoppløsning, slik bestillingen opprinnelig lød (ERSTATTET 09.11.2026 av GT-206, jf. K-40)",K-34,linje 62,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-182,Beslutning: primærmål,K-34,linje 63,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-183,Beslutning: sekundærmål,K-34,linje 63,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-184,Beslutning: begge mål rapporteres,K-34,linje 63,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-185,Beslutning: last primært som v1,K-34,linje 64,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-186,Beslutning: sensitivitet brukstid,K-34,linje 64,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-187,Beslutning: sensitivitet køavlesning,K-34,linje 64,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-188,Beslutning: utfall,K-34,linje 65,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-189,Beslutning: deklarasjon av sett data,K-34,linje 67,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-190,Beslutning: data og lisens,K-34,linje 68,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-191,Beslutning: fast forfatterlinje i AI-erklæringen,K-34,linje 70,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-192,"Beslutning: metode brukes, oppfinnes ikke",K-34,linje 16,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-193,Beslutning: begrensninger som skal deklareres,K-34,linje 66,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-194,Beslutning: andre soners køer holdes utenfor,K-34,linje 66,kilder/K-34_BESTILLING_2026-11-09.txt
+GT-195,Beslutning: hull i ENTSO-E-dekningen deklareres (ikke glattes over),K-37,linje 10,kilder/K-37_BESTILLING_3c-supplement_2026-11-09.txt
+GT-196,v1: kurven setter w = q = f,K-14,linje 59,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-197,v1: påslagsformel,K-14,linje 56,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-198,v1: R_new,K-14,linje 56,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-199,v1 params: referanseår for eksisterende datasenterlast,K-22,linje 29,kilder/K-22_KHEPRI-DC_v1_parametre.json
+GT-200,v1 params: år med E_MW (eksisterende datasenterlast),K-22,beregnet — les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-22_KHEPRI-DC_v1_parametre.json
+GT-201,"v1-kode: f-rutenett (101 punkter, steg 0,01)",K-38,linje 33,kilder/K-38_KHEPRI-DC_v1_analysis_v1.0.1.py
+GT-202,Power BI 09.11: kø NO1 (sjette celle i NO1-raden: 09.11-verdien),K-20,linje 10,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-203,Power BI 09.11: reservert NO2 (tredje celle i NO2-raden: 09.11-verdien),K-20,linje 11,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-204,Power BI 09.11: reservert NO3 (tredje celle i NO3-raden: 09.11-verdien),K-20,linje 12,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-205,Power BI 09.11: reservert NO4 (tredje celle i NO4-raden: 09.11-verdien),K-20,linje 13,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-206,"Beslutning (endret 09.11.2026, erstatter GT-181): tidsoppløsning og MTU-håndtering",K-40,linje 26,kilder/K-40_PRESISERING_2026-11-09.txt
+GT-207,Presiseringen erklærer GT-181 feil gitt GT-167,K-40,linje 26,kilder/K-40_PRESISERING_2026-11-09.txt
+GT-208,Navnet på produksjonstypen for regulerbar vannkraft i ENTSO-E A68-tabellen,K-35,linje 12,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt

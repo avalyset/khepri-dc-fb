@@ -1,0 +1,14 @@
+gt_id,verdi,sted,metode,kommentar
+GT-664,2025-02-07 forsøk 1 HTTPError: 429 Client Error: Too Many Requests,linje 101,"sed -n 101p, ordrett",klippet før «for url»
+GT-665,2025-02-07 forsøk 2 HTTPError: 429 Client Error: Too Many Requests,linje 102,"sed -n 102p, ordrett",klippet før «for url»
+GT-666,2025-05-18 forsøk 1 HTTPError: 429 Client Error: Too Many Requests,linje 203,"sed -n 203p, ordrett",klippet før «for url»
+GT-667,2025-08-27 forsøk 1 HTTPError: 429 Client Error: Too Many Requests,linje 305,"sed -n 305p, ordrett",klippet før «for url»
+GT-668,2.1.317,linje 2,"sed -n 2p, ordrett",verdi etter første kolon
+GT-669,claude-opus-5-5: 2121; claude-sonnet-5-5: 17,linje 3,"sed -n 3p, ordrett",verdi etter første kolon
+GT-670,33,linje 6,"sed -n 6p, ordrett",verdi etter første kolon
+GT-671,4; modell: claude-opus-5-5,linje 7,"sed -n 7p, ordrett","etter første kolon, uten «; første start …»"
+GT-672,23; modell: claude-opus-5-5,linje 8,"sed -n 8p, ordrett","etter første kolon, uten «; første start …»"
+GT-673,4; modell: claude-opus-5-5,linje 9,"sed -n 9p, ordrett","etter første kolon, uten «; første start …»"
+GT-674,2; modell: claude-opus-5-5,linje 10,"sed -n 10p, ordrett","etter første kolon, uten «; første start …»"
+GT-675,"Elhub consumption_datacenter_per_mba_hour (CC BY 4.0), lastet ned 2026-11-02",linje 46,"sed -n 46p, ordrett",E-feltet fram til og med nedlastingsdatoen; sha256 utelatt
+GT-676,2026-11-10T04:50:35Z 2026-11-10T04:57:34Z,beregnet,"python csv: filter aarsak inneholder «importert», sortert hentet_utc, første og siste","159 rader, alle aarsak «importert fra recon (K-100)», ingen tomme hentet_utc"

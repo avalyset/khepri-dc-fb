@@ -1,0 +1,2 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-310,"Hentetidspunkt for egen API-henting av A65/A75 (alle rader i fila): første og siste hentet_utc",K-62,beregnet — les kolonnen hentet_utc i alle rader og oppgi minste og største verdi som «min max»,kilder/K-62_henteoppsummering_A65_A75.csv

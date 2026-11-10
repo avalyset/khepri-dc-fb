@@ -1,0 +1,31 @@
+gt_id,verdi,sted,metode,kommentar
+GT-779,"CC BY 4.0 for tekst, figurer og egne tabeller, med forbehold om at verdier avledet fra JAO-data fortsatt er underlagt JAOs bruksvilkår, og Apache-2.0 for kode",kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:3,ordrett utdrag (lisens-delen i parentesen),
+GT-780,brukernavnet i filstiene og jao-pys forfatteradresse beholdes,kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:3,ordrett utdrag,
+GT-781,Zenodo via API,kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:3,ordrett utdrag,Gjennomført via Chrome ifølge K-121
+GT-782,ingen OSF-relasjon i Zenodo-metadataene,kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:3,ordrett utdrag,
+GT-783,"Kode: Apache-2.0 (`LICENSE`). Tekst, figurer og egne tabeller: CC BY 4.0 (`LICENSE-DATA`). Verdier avledet fra JAO-data er fortsatt underlagt JAOs bruksvilkår (klausul 4).",kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:21,ordrett hel linje,
+GT-784,"Licences: text, figures and the author's own tables under CC BY 4.0 (LICENSE-DATA); code under Apache-2.0 (LICENSE). Values derived from JAO data remain subject to the JAO terms of use (Clause 4). See README and deviation A1.",kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:69,ordrett hel linje,
+GT-785,"Finn alle andre .ots-filer i repoet (preregistreringen, KDF-0001 og eventuelle andre) og flytt dem til ots/ med en kopi av den stemplede fila ved siden av. Finnes ikke den stemplede fila: STOPP og rapporter.",kilder/K-119_Eirik_publisering_v1_0_chatClaude_anbefalinger_2026-11-10.txt:5,ordrett utdrag,Linja inneholder også unntaket for tarball-.ots og kravet «Etterpå skal det ikke ligge noen .ots-fil utenfor ots/.»
+GT-786,"bruk chrome til zenodo , det er logget inn",kilder/K-121_Eirik_Zenodo_via_Chrome_2026-11-10.txt:3,ordrett hel linje,Merk mellomrom før komma
+GT-787,10.5281/zenodo.24100435,kilder/K-122_Zenodo_utkast_reservert_DOI_2026-11-10.json.txt:6,"verdien i ""identifier""",
+GT-788,datacite,kilder/K-122_Zenodo_utkast_reservert_DOI_2026-11-10.json.txt:7,"verdien i ""provider""",
+GT-789,draft,kilder/K-122_Zenodo_utkast_reservert_DOI_2026-11-10.json.txt:31,"verdien i ""status""",
+GT-790,KHEPRI-DC-FB v1.0: Data-centre queues against flow-based import limits in the Norwegian bidding zones: a preregistered descriptive analysis,kilder/K-122_Zenodo_utkast_reservert_DOI_2026-11-10.json.txt:32,"verdien i ""title""",
+GT-791,24100434,kilder/K-122_Zenodo_utkast_reservert_DOI_2026-11-10.json.txt:12,"verdien i parent ""id""",
+GT-792,9ab057490f94569ea2aaf968bdcaaa848729dc5f3d7178e6d7d75792cd232c58 LIK,"shasum -a 256 ots/GROUND_TRUTH_10b8886.md; ots info ots/GROUND_TRUTH_10b8886.md.ots | grep ""File sha256 hash""",sha256 beregnet og sammenlignet med ots info,
+GT-793,9c089a024479ca83631a3edb587f3c219e25d80982d32ef2fa9a7665045db7bf LIK,"shasum -a 256 ots/KILDER_MANIFEST_10b8886.csv; ots info ots/KILDER_MANIFEST_10b8886.csv.ots | grep ""File sha256 hash""",sha256 beregnet og sammenlignet med ots info,
+GT-794,308bd16355704c3da647e6ea7708b176477ec66cffaecd69423d3df2a1aba17e LIK,"shasum -a 256 ots/POSISJONERING.md; ots info ots/POSISJONERING.md.ots | grep ""File sha256 hash""",sha256 beregnet og sammenlignet med ots info,
+GT-795,18f548e1b5838d6344bc9e77814645e5604dd75c606b64533f054e6bb5655783 LIK,"shasum -a 256 ots/KHEPRI-DC-FB_PREREG_v1_2026-11-09.md; ots info ots/KHEPRI-DC-FB_PREREG_v1_2026-11-09.md.ots | grep ""File sha256 hash""",sha256 beregnet og sammenlignet med ots info,
+GT-796,51ac9d809324e4b3254501d9fdbee18022a213918e26acaf68d9efa46137906d LIK,"shasum -a 256 ots/KDF-0001-headroom-mot-min-nettoposisjon.md; ots info ots/KDF-0001-headroom-mot-min-nettoposisjon.md.ots | grep ""File sha256 hash""",sha256 beregnet og sammenlignet med ots info,
+GT-797,9ab057490f94569ea2aaf968bdcaaa848729dc5f3d7178e6d7d75792cd232c58,git show 10b8886:GROUND_TRUTH.md | shasum -a 256,sha256 av blob i commit,
+GT-798,9c089a024479ca83631a3edb587f3c219e25d80982d32ef2fa9a7665045db7bf,git show 10b8886:kilder/KILDER_MANIFEST.csv | shasum -a 256,sha256 av blob i commit,
+GT-799,430574eaf8af9279ff8c29ba49e56639cb9cc197791c45a8dc28e1810aabdec6,shasum -a 256 ~/khepri-data/kdf-ots/khepri-dc-fb-prereg-v1.tar.gz,sha256 av fil,
+GT-800,101,tar tzf ~/khepri-data/kdf-ots/khepri-dc-fb-prereg-v1.tar.gz | grep -c '^khepri-dc-fb-prereg-v1/kilder/',linjetelling,Tallet inkluderer selve katalogoppføringen khepri-dc-fb-prereg-v1/kilder/ (3 av de 101 er katalogoppføringer)
+GT-801,0,find . -path ./.git -prune -o -name '*.ots' -print | grep -v '^./ots/' | wc -l,filtelling,
+GT-802,2026-11-10T05:14:34Z 2024-10-30 OK,kilder/K-106_JAO_fbDomainShadowPrice_hentelogg_2026-11-10.txt:1,ordrett hel linje,Linja har et avsluttende mellomrom etter OK i fila; fjernet her
+GT-803,2026-11-10T05:15:59Z 2025-02-07 OK,kilder/K-106_JAO_fbDomainShadowPrice_hentelogg_2026-11-10.txt:103,ordrett hel linje,Linja har et avsluttende mellomrom etter OK i fila; fjernet her
+GT-804,2026-11-10T05:17:03Z 2025-05-18 OK,kilder/K-106_JAO_fbDomainShadowPrice_hentelogg_2026-11-10.txt:204,ordrett hel linje,Linja har et avsluttende mellomrom etter OK i fila; fjernet her
+GT-805,2026-11-10T05:18:06Z 2025-08-27 OK,kilder/K-106_JAO_fbDomainShadowPrice_hentelogg_2026-11-10.txt:306,ordrett hel linje,Linja har et avsluttende mellomrom etter OK i fila; fjernet her
+GT-806,ingen pause mellom kallene (som recon-skriptet 09.11),kilder/K-123_hent_jao_fbdsp_94cf5b9.txt:8,ordrett utdrag,
+GT-807,commit 94cf5b9: 94cf5b9769b1309985b53c9015f4a96660bd0433 2026-11-10T06:14:25+01:00,kilder/K-123_hent_jao_fbdsp_94cf5b9.txt:2,ordrett hel linje,Tidspunktet alene: 2026-11-10T06:14:25+01:00
+GT-808,commit ec773db: ec773dbedce9c813bbf7d58c1ed4038d8555324f 2026-11-10T06:51:15+01:00,kilder/K-123_hent_jao_fbdsp_94cf5b9.txt:3,ordrett hel linje,Tidspunktet alene: 2026-11-10T06:51:15+01:00

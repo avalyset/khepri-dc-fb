@@ -1,0 +1,2 @@
+gt_id,verdi,sted,metode,kommentar
+GT-310,2026-11-09T17:26:37Z 2026-11-09T18:04:34Z,"kilder/K-62_henteoppsummering_A65_A75.csv, kolonne hentet_utc, alle 90 datarader",Python csv.DictReader; hentet_utc parset med datetime.strptime(%Y-%m-%dT%H:%M:%SZ); min og max over alle rader,"90 rader (A65: 65, A75: 25), ingen tomme verdier, 90 distinkte tidsstempler; streng-min/max gir samme resultat"

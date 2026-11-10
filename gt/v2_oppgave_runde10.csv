@@ -1,0 +1,14 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-380,"Vindusavstemming etter hullhentingen: vinduer med status OK, A11 / A65 / A75",K-75,"beregnet — i K-75, rader med hentet_utc >= 2026-11-09T17:38:14Z (hullhentingen): antall med status OK per dok, i rekkefølgen A11 / A65 / A75",kilder/K-75_henteoppsummering_ENTSOE_alle.csv
+GT-381,Hullhentingen: vinduer i alt,K-75,beregnet — antall rader i hullhentingen (samme filter),kilder/K-75_henteoppsummering_ENTSOE_alle.csv
+GT-382,Hullhentingen: vinduer med status ulik OK (endelig feilet),K-75,beregnet — antall rader i hullhentingen med status ulik OK,kilder/K-75_henteoppsummering_ENTSOE_alle.csv
+GT-383,Hullhentingen: vinduer som trengte mer enn ett forsøk / sum ekstra forsøk,K-75,"beregnet — antall rader i hullhentingen med forsok > 1, og summen av (forsok − 1), som «a / b»",kilder/K-75_henteoppsummering_ENTSOE_alle.csv
+GT-384,Hullhentingen: linjer med HTTP 599 i henteloggen,K-74,beregnet — antall linjer som inneholder «HTTP 599» etter linja med «bare 374 hull» (siste forekomst),kilder/K-74_hentelogg_ENTSOE_slutt.txt
+GT-385,K-74: tidspunktet hentingen ble avsluttet,K-74,les linja med SLUTT,kilder/K-74_hentelogg_ENTSOE_slutt.txt
+GT-386,Hentetidspunkt for A11 i hullhentingen: første og siste hentet_utc,K-75,"beregnet — minste og største hentet_utc for dok A11 i hullhentingen, mellomromsskilt",kilder/K-75_henteoppsummering_ENTSOE_alle.csv
+GT-387,Hullhentingen: kurvetype og oppløsning (unike verdier),K-75,"beregnet — unike kombinasjoner av kurvetyper og opploesninger i hullhentingen, som «<kurvetype> <oppløsning>»",kilder/K-75_henteoppsummering_ENTSOE_alle.csv
+GT-388,K-73: antall A11-grenseretninger i dekningen,K-73,beregnet — antall unike omraade for dok A11,kilder/K-73_dekning_A65_A75_A11_2024-10-30_2026-10-31.csv
+GT-389,K-73: A11 per grenseretning og måned med full dekning / alle,K-73,"beregnet — antall rader for dok A11 med union_andel 1.0000 / antall rader for dok A11, som «a / b». I tillegg (kommentarfeltet): regn selv dekningen for 2026-01–2026-10 fra rådata i ~/khepri-data/kdf-meta-2026-11-09/entsoe_raw/A11/<retning>/*.xml.gz (A03: hold forrige verdi til neste posisjon eller periodens slutt) og oppgi hvor mange retning-måneder som har alle kvarter dekket",kilder/K-73_dekning_A65_A75_A11_2024-10-30_2026-10-31.csv
+GT-390,K-73: A11 per sone og måned (minste dekning over sonens grenseretninger) med full dekning / alle,K-73,beregnet — som over for dok «A11-sone(min)»,kilder/K-73_dekning_A65_A75_A11_2024-10-30_2026-10-31.csv
+GT-391,K-73: A75 per sone og måned med full dekning / alle,K-73,beregnet — som over for dok A75,kilder/K-73_dekning_A65_A75_A11_2024-10-30_2026-10-31.csv
+GT-392,K-73: A65 per sone og måned med full dekning / alle,K-73,beregnet — som over for dok A65,kilder/K-73_dekning_A65_A75_A11_2024-10-30_2026-10-31.csv

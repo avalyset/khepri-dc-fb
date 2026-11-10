@@ -1,0 +1,10 @@
+gt_id,verdi,sted,metode,kommentar
+GT-393,2026-04-01 22:00:00 corresponds to the full EDD 2026-04-02,kilder/txt/K-25.txt PDF-side 28 (tabellrad EnergyDeliveryDate),"ordrett, to linjer slått sammen med ett mellomrom","Fullt sitat: ""Note that the timestamp is in UTC—for example, 2026-04-01 22:00:00 corresponds to the full EDD 2026-04-02."" 2. april er sommertid (CEST); 22:00 UTC 1.4 = 00:00 CEST 2.4."
+GT-394,CET time stamp (yes… CET?!),"kilder/txt/K-25.txt PDF-side 22 (punktliste under ""Understanding request responses"")","ordrett, verdien etter feltnavnet","Hele punktet: ""'dateTimeUtc': CET time stamp (yes… CET?!)"". Står under note om at svar følger JAO API-strukturen for Core-regionen."
+GT-395,"R = reservert, Q = kapasitetskø.",kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md linje 47,ordrett,Slutten av linje 47.
+GT-396,2.1.317,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt linje 6,"ordrett, verdi etter kolon",
+GT-397,claude-opus-5-5: 1155; claude-sonnet-5-5: 17,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt linje 7,"ordrett, verdi etter kolon",
+GT-398,2026-11-09T16:27:15.690Z – 2026-11-09T16:27:46.448Z,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt linje 9,"ordrett, verdi etter kolon",Oppgaven oppgir linje 9; stemmer (linja for claude-sonnet-5-5).
+GT-399,2026-11-09T16:28:29.839Z – 2026-11-09T20:03:48.401Z,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt linje 8,"ordrett, verdi etter kolon",Sluttid = lesetidspunkt; linje 2 sier Lest (UTC): 2026-11-09T20:03:49Z.
+GT-400,claude-opus-5-5: 18,kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt linje 12,"ordrett, verdi etter kolon",Linje 10 gir totalt antall underagentlogger: 18.
+GT-401,"chat-Claude (claude.ai), som Eirik brukte til egen gjennomgang, finnes ikke i disse loggene; modell-ID for den er ikke registrert her.",kilder/K-76_oktlogg_verktoy_modeller_2026-11-09.txt linje 14,"ordrett, verdi etter kolon (etter ""Merk"")","Korteste presise delsvar: ""modell-ID for den er ikke registrert her"" (modell-ID ikke oppgitt i kilden)."

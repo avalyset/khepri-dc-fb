@@ -1,0 +1,39 @@
+gt_id,verdi,sted,metode,kommentar
+GT-316,GODKJENT,K-64 linje 6,sitat/beslutning,Godkjent med forbehold: påstanden «v1-koden tar b som argument i r_new (K-38)» skal føres som egen GT-rad.
+GT-317,"Fortegnet for JAO-nettoposisjonen tas fra definisjonen i JAO-håndboka (K-25) eller Nordic CCM, ført i GT med sitat.",K-64 linje 7,"sitat, første setning etter ENDRET:",
+GT-318,En time er hendelse hvis minst én MTU i timen er hendelse.,K-64 linje 8,"sitat, første setning etter ENDRET:",
+GT-319,Har den det: bruk den.,K-64 linje 9,sitat,"Status på linja er «VENTER», ikke ENDRET/GODKJENT; svaret er setningen om hva som gjelder hvis kilden har jan–okt 2026."
+GT-320,"Regulerbar vannkraft i den øvre grensen = Hydro Water Reservoir + Hydro Pumped Storage (produksjonssiden), installert fra A68 minus faktisk fra A75.",K-64 linje 10,"sitat, første setning etter ENDRET:",
+GT-321,GODKJENT,K-64 linje 11,sitat/beslutning,"Linja: «GODKJENT, med rollen slik GT-317 er endret.»"
+GT-322,GODKJENT,K-64 linje 12,sitat/beslutning,
+GT-323,"def r_new(R: float, E_ref: float, b: float) -> float:",K-38 linje 40,kodelinje uten innrykk,
+GT-324,"return max(0.0, R - E_ref / b)",K-38 linje 41,kodelinje uten innrykk,
+GT-325,"a positive net position is equivalent to export from, and a negative net position is equivalent to import into, the particular bidding zone","K-66 PDF-side 8, punkt 24",sitat (linjeskift normalisert til mellomrom),
+GT-326,the difference between generation and consumption,"K-66 PDF-side 8, punkt 24",sitat,Fullt: «is equal to the difference between generation and consumption for a particular Market Time Unit (e.g. 15 min or 1 hour)»
+GT-327,"a net position of a bidding zone, which is the net value of generation and consumption in a bidding zone","K-65 PDF-side 8, punkt 22",sitat,"Hele punktet: «‘NP’ or ‘𝑁𝑃’ means a net position of a bidding zone, which is the net value of generation and consumption in a bidding zone;»"
+GT-328,Note that the sign of net positions for virtual bidding zones is positive when power is flowing from the virtual bidding zone to the adjacent real bidding zone and negative otherwise.,K-25 PDF-side 19,sitat,
+GT-329,n/e n/e n/e,K-35 A68-linja for NO1,"beregnet: json.loads av sonens JSON, split på \n, tre verdier etter «Hydro Pumped Storage»",
+GT-330,522.00 522.00 532.40,K-35 A68-linja for NO2,"beregnet: json.loads av sonens JSON, split på \n, tre verdier etter «Hydro Pumped Storage»",
+GT-331,60.20 60.20 61.20,K-35 A68-linja for NO3,"beregnet: json.loads av sonens JSON, split på \n, tre verdier etter «Hydro Pumped Storage»",
+GT-332,n/e n/e n/e,K-35 A68-linja for NO4,"beregnet: json.loads av sonens JSON, split på \n, tre verdier etter «Hydro Pumped Storage»",
+GT-333,482.50 482.50 482.50,K-35 A68-linja for NO5,"beregnet: json.loads av sonens JSON, split på \n, tre verdier etter «Hydro Pumped Storage»",
+GT-334,"Elhub consumption_datacenter_per_mba_hour (CC BY 4.0), lastet ned 2026-11-02, sha256 f03d3098c728c64a846a70c610de52afb6d06ee1cfbee60cc0e8cbc58ec1d79f",K-22 linje 46 (kilder.E),sitat (JSON-verdi),sha256 f03d3098c728c64a846a70c610de52afb6d06ee1cfbee60cc0e8cbc58ec1d79f
+GT-335,f03d3098c728c64a846a70c610de52afb6d06ee1cfbee60cc0e8cbc58ec1d79f,K-69 hele fila,beregnet: hashlib.sha256 over råbytes,Lik sha256 oppgitt i K-22 linje 46
+GT-336,2026-11-01T22:00:00Z,K-69 siste STARTTID,beregnet: max over fromisoformat(STARTTID).astimezone(UTC),Siste rad 2026-11-01T23:00:00+01:00; 254880 rader
+GT-337,7296,"[2026-01-01T00:00Z, 2026-11-01T00:00Z)",beregnet: (w1-w0)/3600 s,
+GT-338,7296 7296 7296 7296 7296,K-69 vindu 2026 jan–okt UTC,beregnet: distinkte UTC-timer per sone,Ingen duplikate timer per sone i vinduet
+GT-339,106.676 62.196 109.066 77.291 0.039,K-69 vindu 2026 jan–okt UTC,beregnet: sum VOLUM_KWH (komma→punkt)/1000/7296 per sone,
+GT-340,96.967 26.684 153.827 81.096 0.057,K-69 UTC-år 2025,beregnet: sum VOLUM_KWH/1000/8760 per sone,Stemmer med K-22 E_MW 2025: 96.966518 26.68425 153.82739 81.096372 0.05676
+GT-341,"Når et kundeprosjekt er ferdigstilt, og nettavtale med tilknyttende nettselskap er inngått eller oppdatert med det nye behovet og de er knyttet til strømnettet, endres status fra reservert til tilknyttet i våre systemer.",K-67 linje 19,sitat,
+GT-342,"Avhengig av når på året gjennomgangen gjøres, så vil dette kunne bety at enkelte kundeprosjekter som er tilknyttet med faktisk effektutveksling står oppført som reservert i våre systemer.",K-67 linje 21,"sitat, første setning",
+GT-343,minst én årlig oppdatering av alle tilknytningssaker,K-67 linje 20,sitat,"Setningsstart: «Statnett og de regionale nettselskapene gjennomfører minst én årlig oppdatering av alle tilknytningssaker, ...»"
+GT-344,"Reservasjon betyr da at kunden kan være trygg på at når tiltaket (eller tiltakene) er ferdigstilt, kan kundens virksomhet starte som planlagt.",K-68 linje 170,sitat,
+GT-345,Finnes en definisjon og A11-korrelasjonen motsier den: STOPP og rapporter.,K-64 linje 7,sitat,
+GT-346,"Mangler en MTU i timen, regnes timen som manglende.",K-64 linje 8,sitat,
+GT-347,Andel hendelses-MTU og andel hendelsestimer rapporteres begge.,K-64 linje 8,sitat,
+GT-348,Hydro Run-of-river and pondage holdes utenfor.,K-64 linje 10,sitat,
+GT-349,"Pumpetimer (A75-produksjon NaN for pumpekraft): faktisk produksjon settes til 0 for pumpekraft i den timen, og det deklareres.",K-64 linje 10,sitat,
+GT-350,"Utfall og driftsstans er ikke trukket fra; grensen er derfor optimistisk, og det deklareres.",K-64 linje 10,sitat,
+GT-351,Rundetellingen i port A starter på nytt fra denne versjonen; runde 1b på b000e99 teller ikke som gjennomgang av endelig tekst.,K-64 linje 13,sitat,
+GT-352,«hold forrige verdi» (A03),K-14 linje 44,sitat,Kontekst: «Rå XML (ENTSO-E Transparency Platform) er parset med «hold forrige verdi» (A03) og aggregert til varighetsvektet» (fortsetter på linje 45: timemiddel i UTC)
+GT-353,CCs regel gjelder som reserve (global korrelasjon mot A11-nettoflyten over alle NO-soner og MTU-er; negativ → fortegnet snus for alle soner i hele perioden; aldri per sone eller delperiode).,K-64 linje 7,sitat,Innledes av «Finnes ingen definisjon i kildene:»

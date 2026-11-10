@@ -1,0 +1,55 @@
+gt_id,verdi,sted,metode,kommentar
+GT-677,Oppdater embargo-teksten i metode-kapittelet til faktisk status når embargoen er opphevet.,linje 10,lest,sitatet innenfor «» i punkt 7 (port B i PUBLISERINGSPORT.md)
+GT-678,Claude Opus 5.5 (claude-opus-5-5),linje 12,lest,Eirik oppgir i tillegg «ingen modellbytte i økta»
+GT-679,Statnett innfører en midlertidig stans av ytterligere reservasjon av nettkapasitet til datasentre. Tiltakene er nødvendige for å sikre forsvarlig drift av kraftsystemet.,linje 146,lest,
+GT-680,09.11.2026 kl. 08:45,linje 149,lest,linje 148 er etiketten «Publisert»
+GT-681,Midlertidige tiltak for fortsatt forsvarlig systemdrift,linje 145,lest,samme tekst står også på linje 144
+GT-682,Alice Lixuan Xu∗a and Clemens Stiewea,PDF-side 1,lest,ordrett pdftotext; ∗ og a er fotnote-/affiliasjonsmarkører; navnene er Alice Lixuan Xu og Clemens Stiewe
+GT-683,Clemens Stiewe,PDF-side 1,lest,pdftotext gir «Stiewea» (a = affiliasjonsmarkør)
+GT-684,arXiv:2607.00977v1 [econ.GN] 1 Jul 2026,PDF-side 1,lest,
+GT-685,14 October 2020,PDF-side 1,lest,
+GT-686,19 May 2026,PDF-side 1,lest,
+GT-687,Oktober 2026,PDF-side 1,lest,under tittelen «Langsiktig markedsanalyse 2026-60»
+GT-688,15. juni 2026,PDF-side 1,lest,
+GT-689,Svar på brev – NVE ber om informasjon om utredninger av forsyningssikkerhet i Nord-Norge,PDF-side 1,lest,
+GT-690,https://github.com/fboerman/jao-py,linje 50,lest,feltet Project-URL: Homepage
+GT-691,Frank Boerman-Lima,linje 51,lest,feltet Author-email: «Frank Boerman-Lima <frank@amunanalytics.eu>»
+GT-692,2026-11-09T16:55:25Z,"KILDER_MANIFEST.csv, kilde_id K-07",beregnet (oppslag),
+GT-693,2026-11-09T16:55:45Z,"KILDER_MANIFEST.csv, kilde_id K-16",beregnet (oppslag),
+GT-694,2026-11-09T16:55:45Z,"KILDER_MANIFEST.csv, kilde_id K-17",beregnet (oppslag),
+GT-695,2026-11-09T16:55:46Z,"KILDER_MANIFEST.csv, kilde_id K-18",beregnet (oppslag),
+GT-696,2026-11-09T16:55:46Z,"KILDER_MANIFEST.csv, kilde_id K-19",beregnet (oppslag),
+GT-697,2026-11-09T16:55:46Z,"KILDER_MANIFEST.csv, kilde_id K-25",beregnet (oppslag),
+GT-698,2026-11-09T16:55:49Z,"KILDER_MANIFEST.csv, kilde_id K-28",beregnet (oppslag),
+GT-699,2026-11-09T17:17:11Z,"KILDER_MANIFEST.csv, kilde_id K-35",beregnet (oppslag),
+GT-700,2026-11-09T18:47:31Z,"KILDER_MANIFEST.csv, kilde_id K-65",beregnet (oppslag),
+GT-701,2026-11-09T18:47:32Z,"KILDER_MANIFEST.csv, kilde_id K-66",beregnet (oppslag),
+GT-702,2026-11-09T18:53:20Z,"KILDER_MANIFEST.csv, kilde_id K-67",beregnet (oppslag),
+GT-703,2026-11-09T18:53:20Z,"KILDER_MANIFEST.csv, kilde_id K-69",beregnet (oppslag),
+GT-704,2026-11-09T16:55:49Z,"KILDER_MANIFEST.csv, kilde_id K-29",beregnet (oppslag),
+GT-705,https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/,"KILDER_MANIFEST.csv, kilde_id K-16",beregnet (oppslag),
+GT-706,https://www.jao.eu/terms-conditions,"KILDER_MANIFEST.csv, kilde_id K-18",beregnet (oppslag),
+GT-707,https://publicationtool.jao.eu/PublicationHandbook/Nordic_PublicationTool_Handbook_v1.8.1.pdf,"KILDER_MANIFEST.csv, kilde_id K-25",beregnet (oppslag),
+GT-708,https://nordic-rcc.net/wp-content/uploads/2024/01/CACM-Nordic-CCR-DA-and-ID-CCM-2020-1.pdf,"KILDER_MANIFEST.csv, kilde_id K-65",beregnet (oppslag),
+GT-709,https://nordic-rcc.net/wp-content/uploads/2026/10/CCM-legal-proposal-RfA-2026__clean_Vf.pdf,"KILDER_MANIFEST.csv, kilde_id K-66",beregnet (oppslag),
+GT-710,https://www.statnett.no/globalassets/for-aktorer-i-kraftsystemet/planer-og-analyser/lma/langsiktig-markedsanalyse_2026-2060.pdf,"KILDER_MANIFEST.csv, kilde_id K-07",beregnet (oppslag),
+GT-711,https://www.statnett.no/globalassets/for-aktorer-i-kraftsystemet/nyheter-for-aktorer-i-kraftbransjen/svarbrev-nve-om-utredninger-av-forsyningssikkerhet-i-nord-norge-15.06.2026.pdf,"KILDER_MANIFEST.csv, kilde_id K-17",beregnet (oppslag),
+GT-712,https://www.statnett.no/nettkapasitet-til-produksjon-og-forbruk/foresporsler-og-reservasjon-i-nettet/,"KILDER_MANIFEST.csv, kilde_id K-67",beregnet (oppslag),"parentes fjernet: (Power BI, Eiriks Chrome)"
+GT-713,40.605 96.967,E_MW.NO1.2024/2025,beregnet (avrunding),råverdier 40.604627 96.966518
+GT-714,17.978 26.684,E_MW.NO2.2024/2025,beregnet (avrunding),råverdier 17.977821 26.68425
+GT-715,93.707 153.827,E_MW.NO3.2024/2025,beregnet (avrunding),råverdier 93.707314 153.82739
+GT-716,70.993 81.096,E_MW.NO4.2024/2025,beregnet (avrunding),råverdier 70.993339 81.096372
+GT-717,0.891 0.057,E_MW.NO5.2024/2025,beregnet (avrunding),råverdier 0.891418 0.05676
+GT-718,"0/27;0/105;R: produksjon 2871, pumpeintervall 0, datahull 105",linje 3,lest,linja: NO_2;2026-01
+GT-719,"0/68;0/251;R: produksjon 2437, pumpeintervall 0, datahull 251",linje 4,lest,linja: NO_2;2026-02
+GT-720,"0/253;0/928;R: produksjon 2048, pumpeintervall 0, datahull 928",linje 5,lest,linja: NO_2;2026-03
+GT-721,"0/229;0/858;R: produksjon 2022, pumpeintervall 0, datahull 858",linje 6,lest,linja: NO_2;2026-04
+GT-722,"0/273;0/1023;R: produksjon 1953, pumpeintervall 0, datahull 1023",linje 7,lest,linja: NO_2;2026-05
+GT-723,"0/4;0/13;X: produksjon 2402, pumpeintervall 561, datahull 13 | F: produksjon 2402, pumpeintervall 561, datahull 13 | R: produksjon 2402, pumpeintervall 0, datahull 574",linje 8,lest,linja: NO_3;2025-10
+GT-724,"0/37;0/130;R: produksjon 2846, pumpeintervall 0, datahull 130",linje 9,lest,linja: NO_3;2026-03
+GT-725,"0/128;0/500;R: produksjon 2380, pumpeintervall 0, datahull 500",linje 10,lest,linja: NO_3;2026-04
+GT-726,"0/479;0/1898;R: produksjon 1078, pumpeintervall 0, datahull 1898",linje 11,lest,linja: NO_3;2026-05
+GT-727,"0/5;0/5;X: produksjon 2570, pumpeintervall 305, datahull 5 | F: produksjon 2570, pumpeintervall 305, datahull 5 | R: produksjon 2570, pumpeintervall 0, datahull 310",linje 12,lest,linja: NO_5;2025-11
+GT-728,"0/5;0/18;R: produksjon 2958, pumpeintervall 0, datahull 18",linje 13,lest,linja: NO_5;2026-03
+GT-729,"0/29;0/103;R: produksjon 2777, pumpeintervall 0, datahull 103",linje 14,lest,linja: NO_5;2026-04
+GT-730,"0/247;0/981;R: produksjon 1995, pumpeintervall 0, datahull 981",linje 15,lest,linja: NO_5;2026-05

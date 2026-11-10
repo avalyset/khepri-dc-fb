@@ -1,0 +1,38 @@
+{
+  "upload_type": "software",
+  "title": "KHEPRI-DC-FB v1.0: Data-centre queues against flow-based import limits in the Norwegian bidding zones: a preregistered descriptive analysis",
+  "version": "1.0",
+  "creators": [
+    {
+      "name": "Botten Nicolaysen, Eirik",
+      "affiliation": "EcoDeco AS",
+      "orcid": "0009-0001-9188-6788"
+    }
+  ],
+  "description": "Preregistered descriptive analysis. In how many market time units would the data-centre queue in each Norwegian bidding zone (NO1–NO5), added as load in the zone, need more import than the published flow-based minimum net position allows? Period: 2024-10-30 to 2026-10-31. Import headroom is the realised day-ahead net position minus the minimum net position from the Nordic flow-based capacity calculation (source: JAO Nordic Publication Tool, https://publicationtool.jao.eu). A secondary measure adds regulable hydropower that was not producing (ENTSO-E); it is an optimistic upper bound. The outcomes are descriptive and say nothing about actual security of supply, prices or connection capacity. The methods were locked in the signed git tag prereg-v1 before any outcome was computed. The preregistration was submitted to OSF Registries with a selected embargo until 31.12.2027; publication does not wait for OSF (deviation A3). Deviations A1–A3 are documented in AVVIK_FRA_PREREG.md. The record contains code with retrieval scripts, tests, outcome tables, the manuscript, the ground-truth register and OpenTimestamps files. It contains no JAO raw data or JAO time series, and no copies of third-party source documents; these are listed with URL and sha256 in manuskript/sources.csv.",
+  "license": "cc-by-4.0",
+  "notes": "Licences: text, figures and the author's own tables under CC BY 4.0 (LICENSE-DATA); code under Apache-2.0 (LICENSE). Values derived from JAO data remain subject to the JAO terms of use (Clause 4). See README and deviation A1.",
+  "keywords": [
+    "data centres",
+    "bidding zones",
+    "flow-based",
+    "net position",
+    "JAO",
+    "Statnett",
+    "preregistration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/avalyset/khepri-dc-fb/tree/v1.0",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23887356",
+      "relation": "references",
+      "resource_type": "software",
+      "scheme": "doi"
+    }
+  ]
+}

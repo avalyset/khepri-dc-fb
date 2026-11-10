@@ -1,0 +1,36 @@
+gt_id,verdi,sted,metode,kommentar
+GT-402,"Gjelder hvert A75-intervall, time eller kvarter",K-77 linje 7,sitat,
+GT-403,Et intervall der A75 mangler produksjonsverdi for Hydro Pumped Storage regnes som pumpeintervall og settes til 0 FØR varighetsvektingen — bare hvis A75 «Actual Consumption» for Hydro Pumped Storage er > 0 i samme intervall og sone.,K-77 linje 8,sitat,punkttegnet «-» utelatt
+GT-404,"Mangler produksjonsverdien uten registrert pumping i intervallet, er intervallet et datahull: MTU-en regnes som manglende for sekundærmålet.",K-77 linje 9,sitat,punkttegnet «-» utelatt
+GT-405,"Mangler et intervall for Hydro Water Reservoir, regnes MTU-en som manglende for sekundærmålet.",K-77 linje 10,sitat,punkttegnet «-» utelatt
+GT-406,"Mangler feltet i en kilde, blir intervaller uten produksjonsverdi der datahull etter regelen over; deklarer det per kilde i prereg.","K-77 linje 11, andre setning",sitat,
+GT-407,"Antall intervaller i hver kategori (produksjon, pumpeintervall, datahull) rapporteres per sone, kilde og måned.",K-77 linje 12,sitat,punkttegnet «-» utelatt
+GT-408,"Gjelder bare sekundærmålet; primærmålet påvirkes ikke. NO1 og NO4 er uberørt (pumpeleddet = 0, GT-354).",K-77 linje 13,sitat,punkttegnet «-» utelatt
+GT-409,"TREDJE RUNDE I PORT A GODKJENT, som siste innholdsrunde",K-77 linje 15,sitat,
+GT-410,tarballens sha256 føres i OSF-skjemaet ved låsing,"K-77 linje 16, leddet om tarballen",sitat,leddene skilt på semikolon etter kolon
+GT-411,det står eksplisitt at sensitivitetene kjøres hver for seg,"K-77 linje 16, leddet om sensitivitetene",sitat,
+GT-412,"tellingen av pumpetimer skiller soner uten pumpeserie (NO1, NO4)","K-77 linje 16, leddet om tellingen av pumpetimer",sitat,
+GT-413,"Finner runde 3 feil som kan endre resultatene (feilklasse a–f med virkning på mål, data eller utfall): STOPP, ingen låsing, rapporter.",K-77 linje 18,sitat,punkttegnet «-» utelatt
+GT-414,"Finner runde 3 bare ordlyd uten virkning på resultatene: rett, kjør ankersjekken, la gjennomgåeren verifisere bare differansen, og lås deretter etter punkt 9.",K-77 linje 19,sitat,punkttegnet «-» utelatt
+GT-415,0 5 5 0 5,K-78 linje 28,sitat,"Ekstra kontroll (egen kode, python3 -I, bare telling): ~/khepri-data/kdf-meta-2026-11-09/entsoe_raw/A75/NO_2/*.xml.gz: 5 filer (2026-06–2026-10), hver med 1 TimeSeries psrType B10 med outBiddingZone_Domain.mRID = 5 i alt; også 1 forbruksserie (alle typer) per fil = 5. Stemmer med K NO_2 = 5 i K-78."
+GT-416,0 1 1 0 1,K-78 linje 29,sitat,"Ekstra kontroll (egen kode, python3 -I, bare telling): A75_NO_2_2024.xml: 0 B10-serier med outBiddingZone_Domain.mRID (0 forbruksserier i alt); A75_NO_2_2025.xml: 1 B10-forbruksserie (2 forbruksserier i alt). Sum B10 = 1, alle typer = 2. Stemmer med X NO_2 i K-78 (B10=1, alle typer=2) og per-fil-linja (2024 0; 2025 1)."
+GT-417,0 4 4 0 4,K-78 linje 30,sitat,
+GT-418,0 0 0 0 0,K-78 linje 31,sitat,"Ekstra kontroll (egen kode, python3 -I, bare telling): ~/khepri-data/raw/entsoe-rest/NO2_generation_2026.csv: 8 kolonner i headeren, ingen med «Consumption» i navnet (eneste pumpekolonne heter «Hydro Pumped Storage»). Stemmer med R NO_2 = 0 i K-78."
+GT-419,NO_2: 2026-06 2026-07 2026-08 2026-09 2026-10 | NO_3: 2026-06 2026-07 2026-08 2026-09 2026-10 | NO_5: 2026-06 2026-07 2026-08 2026-09 2026-10,K-78 linje 34–36,beregnet,
+GT-420,NO_2: 2025 | NO_3: 2025 | NO_5: 2025,K-78 linje 37–39,beregnet,
+GT-421,NO_2: 2025-09 2025-10 2025-11 2025-12 | NO_3: 2025-09 2025-10 2025-11 2025-12 | NO_5: 2025-09 2025-10 2025-11 2025-12,K-78 linje 40–42,beregnet,
+GT-422,ingen,K-78 linje 43–45,beregnet,alle ni R-filer har 0
+GT-423,9 / 9,"K-73, dok A75, NO_2/NO_3/NO_5, maaned 2024-10-30–2024-12",beregnet,3 måneder × 3 soner
+GT-424,36 / 36,"K-73, dok A75, NO_2/NO_3/NO_5, maaned 2025-01–2025-12",beregnet,
+GT-425,15 / 15,"K-73, dok A75, NO_2/NO_3/NO_5, maaned 2026-01–2026-05",beregnet,
+GT-426,15 / 15,"K-73, dok A75, NO_2/NO_3/NO_5, maaned 2026-06–2026-10",beregnet,"R_andel 0.9333 i 2026-06 for alle tre soner, 0 deretter"
+GT-427,2026-11-09T22:20:20Z,K-79 linje 2,sitat,
+GT-428,4; modell: claude-opus-5-5,K-79 linje 11,sitat,4 tilsvarende rader i per-logg-lista (linje 15–18)
+GT-429,13; modell: claude-opus-5-5,K-79 linje 12,sitat,13 tilsvarende rader i per-logg-lista
+GT-430,3; modell: claude-opus-5-5,K-79 linje 13,sitat,"3 tilsvarende rader i per-logg-lista (linje 26, 32, 34)"
+GT-431,20,K-79 linje 10,sitat,"4+13+3 = 20, og 20 rader i per-logg-lista"
+GT-432,61,K-80 linje 34,sitat,linje 37: første svarlinje = A75_NO_2_2025.xml (NO2)
+GT-433,58,K-80 linje 35,sitat,linje 37: andre svarlinje = A75_NO_5_2025.xml (NO5)
+GT-434,"timer i [2025-04-10, 2026-01-01) der B10-produksjon dekker 1-3 av 4 kvarter",K-80 linje 8,sitat,avsluttende punktum fjernet
+GT-435,i tørrår,"K-07 (txt) PDF-side 85, høyre spalte",sitat,setningen: «Ved et underskudd på 30 TWh i snitt over alle værår er det i tørrår en kontinuerlig maksimal flyt inn til Norge på mellomlandsforbindelsene.»
+GT-436,positiv nasjonal,"K-03 (txt) PDF-side 16, venstre spalte",sitat,setningen: «En positiv nasjonal effektbalanse innebærer at Norge til enhver tid kan dekke eget forbruk uten å være avhengig av import …»

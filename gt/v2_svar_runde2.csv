@@ -1,0 +1,4 @@
+gt_id,verdi,sted,metode,kommentar
+GT-051,270,K-20 linje 14,Lest tabellrad «| NO5 | 270 | 270 | 0 | 894 | 894 | 0 |»; kolonneoverskrift linje 7: 3. celle = «Reservert 09.11»,"Entydig: celle 3 (Område telt som celle 1) = Reservert 09.11 = 270. Reservert 02.11 er også 270, så tellefeil gir samme tall."
+GT-149,Nettoposisjonen til et budområde uttrykker forskjellen mellom hvor mye kraft som produseres og hvor mye som brukes i området på et gitt tidspunkt.,"K-03 PDF-side 42 (venstre spalte, under «Med flytbasert metode blir prisdannelsen mer sammensatt»)","Splittet kilder/txt/K-03.txt på form feed, leste side 42 (indeks 41); satt sammen setningen over to linjer i venstre spalte",Setningen står over linjeskift i pdftotext-utgaven; ingen annen definisjon av nettoposisjon på siden.
+GT-177,894,K-20 linje 14,Samme tabellrad; kolonneoverskrift linje 7: 6. celle = «Kø 09.11»,Entydig: celle 6 = Kø 09.11 = 894. Kø 02.11 er også 894. Δ = 0.

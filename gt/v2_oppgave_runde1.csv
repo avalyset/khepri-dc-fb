@@ -1,0 +1,177 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-001,v1-repoets origin,K-24,linje 6,kilder/K-24_KHEPRI-DC_v1_git.txt
+GT-002,Taggen v1.0.1 peker på commit,K-24,linje 8,kilder/K-24_KHEPRI-DC_v1_git.txt
+GT-003,HEAD i lokal v1-klon (/Volumes/Vault/khepri-dc/repo-public),K-24,linje 3,kilder/K-24_KHEPRI-DC_v1_git.txt
+GT-004,Taggmeldingen kobler v1.0.1 til Zenodo-DOI,K-24,linje 13,kilder/K-24_KHEPRI-DC_v1_git.txt
+GT-005,Zenodo-tittel for 10.5281/zenodo.23887356,K-29,linje 33,kilder/K-29_doi_10.5281_zenodo.23887356.json
+GT-006,Zenodo-versjon for 10.5281/zenodo.23887356,K-29,linje 36,kilder/K-29_doi_10.5281_zenodo.23887356.json
+GT-007,v1 dekker årene,K-15,linje 10,kilder/K-15_KHEPRI-DC_v1_README_v1.0.1.md
+GT-008,v1 produksjon fra ENTSO-E A75,K-15,linje 10,kilder/K-15_KHEPRI-DC_v1_README_v1.0.1.md
+GT-009,v1 last fra ENTSO-E A65,K-15,linje 10,kilder/K-15_KHEPRI-DC_v1_README_v1.0.1.md
+GT-010,v1 kontroll med fysisk flyt A11,K-14,linje 43,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-011,v1 eksisterende datasenterlast fra Elhub,K-14,linje 48,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-012,v1 legger køen på som flat last,K-15,linje 11,kilder/K-15_KHEPRI-DC_v1_README_v1.0.1.md
+GT-013,v1 brukstid i manus,K-14,linje 56,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-014,v1 brukstid i params/parametre.json,K-22,linje 44,kilder/K-22_KHEPRI-DC_v1_parametre.json
+GT-015,NVE-metodens brukstid for datasentre,K-05,PDF-side 4,kilder/txt/K-05.txt
+GT-016,"v1 Statnett datasenter reservert, Norge, avlest 02.11.2026",K-21,linje 15,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-017,"v1 Statnett datasenter kapasitetskø, Norge, avlest 02.11.2026",K-21,linje 15,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-018,"Datasenter reservert NO1, 02.11.2026",K-21,linje 16,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-019,"Datasenter kø NO1, 02.11.2026",K-21,linje 16,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-020,"Datasenter reservert NO2, 02.11.2026",K-21,linje 17,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-021,"Datasenter kø NO2, 02.11.2026",K-21,linje 17,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-022,"Datasenter reservert NO3, 02.11.2026",K-21,linje 18,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-023,"Datasenter kø NO3, 02.11.2026",K-21,linje 18,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-024,"Datasenter reservert NO4, 02.11.2026",K-21,linje 19,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-025,"Datasenter kø NO4, 02.11.2026",K-21,linje 19,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-026,"Datasenter reservert NO5, 02.11.2026",K-21,linje 20,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-027,"Datasenter kø NO5, 02.11.2026",K-21,linje 20,kilder/K-21_KHEPRI-DC_v1_POWERBI_AVLESNING_2026-11-02.md
+GT-028,v1: årssummen snur i NO4 ved f (2023 / 2024 / 2025),K-14,linje 180,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-029,v1: årssummen snur i NO2 ved f (2023 / 2024 / 2025),K-14,linje 180,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-030,v1: årssummen snur aldri i NO5,K-14,linje 180,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-031,v1-manus avgrenser bort import og effektbalanse,K-14,linje 35,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-032,v1 tolkningsregel 1,K-14,linje 167,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-033,v1 tolkningsregel 2,K-14,linje 168,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-034,v1 DEV-1: kontrollen mot A11 utenfor grensen i,K-15,linje 32,kilder/K-15_KHEPRI-DC_v1_README_v1.0.1.md
+GT-035,Statnett-pressemeldingens tittel,K-16,linje 145,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-036,Pressemeldingen publisert,K-16,linje 148,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-037,Begrunnelse for stansen,K-16,linje 173,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-038,fos § 14 gjelder (i pressemeldingen) godkjenning av anleggsfunksjonalitet,K-16,linje 159,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-039,"Datasenter tilknyttet, Norge (pressemelding 09.11)",K-16,linje 167,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-040,"Datasenter reservert, Norge (pressemelding 09.11)",K-16,linje 167,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-041,"Datasenter i kapasitetskø, Norge (pressemelding 09.11)",K-16,linje 167,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-042,Forespørsler om tilknytning i tillegg (pressemelding 09.11),K-16,linje 169,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-043,Maksimalt effektforbruk i Norge (pressemelding 09.11),K-16,linje 170,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-044,Stansen forventes opphevet senest,K-16,linje 163,kilder/K-16_Statnett_pressemelding_systemdrift.txt
+GT-045,"Power BI datasenter reservert, Norge, egen avlesning 09.11.2026 (ikke arkivert med skjermbilde)",K-20,linje 9,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-046,"Power BI datasenter kø, Norge, egen avlesning 09.11.2026",K-20,linje 9,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-047,Power BI 09.11: reservert NO1,K-20,linje 10,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-048,Power BI 09.11: kø NO2,K-20,linje 11,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-049,Power BI 09.11: kø NO3,K-20,linje 12,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-050,Power BI 09.11: kø NO4,K-20,linje 13,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-051,Power BI 09.11: reservert og kø NO5 (uendret fra 02.11),K-20,linje 14,kilder/K-20_POWERBI_AVLESNING_2026-11-09.md
+GT-052,Statnetts svarbrev til NVE 15.06.2026 om nærliggende områder,K-17,PDF-side 3,kilder/txt/K-17.txt
+GT-053,jao-py-klasse for nordisk publication tool,K-28,linje 7,kilder/K-28_jao-py_jao_nordic_og_METADATA.txt
+GT-054,Base-URL for nordisk JAO publication tool i jao-py,K-28,linje 8,kilder/K-28_jao-py_jao_nordic_og_METADATA.txt
+GT-055,jao-py-versjon i recon-venv,K-28,linje 47,kilder/K-28_jao-py_jao_nordic_og_METADATA.txt
+GT-056,Recon-uka: antall rader i samlet maxNetPos-CSV,K-23,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-23_recon_maxNetPos_nordic_2026-10-26_2026-11-01.csv
+GT-057,Recon-uka: første og siste tidssteg (Europe/Oslo),K-23,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-23_recon_maxNetPos_nordic_2026-10-26_2026-11-01.csv
+GT-058,Recon-uka: tidsoppløsning (unike steg mellom rader),K-23,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-23_recon_maxNetPos_nordic_2026-10-26_2026-11-01.csv
+GT-059,Recon-uka: NO-soner med både min_ og max_-kolonne,K-23,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-23_recon_maxNetPos_nordic_2026-10-26_2026-11-01.csv
+GT-060,JAO-vilkår: forskning er Legitimate Use,K-18,linje 134,kilder/K-18_JAO_terms-conditions.txt
+GT-061,JAO-vilkår: Content kan ikke gjøres tilgjengelig for tredjepart uten skriftlig forhåndssamtykke (intet Legitimate Use-unntak i dette leddet),K-18,linje 175,kilder/K-18_JAO_terms-conditions.txt
+GT-062,JAO-vilkår: spredning/distribusjon tillatt bare med skriftlig samtykke eller når forenlig med Legitimate Use,K-18,linje 176,kilder/K-18_JAO_terms-conditions.txt
+GT-063,JAO-vilkår: Content omfatter avledede data,K-18,linje 174,kilder/K-18_JAO_terms-conditions.txt
+GT-064,JAO-vilkår: scraping og bots forbudt,K-18,linje 177,kilder/K-18_JAO_terms-conditions.txt
+GT-065,Khepri 10.5281/zenodo.23101127 er versjon,K-30,linje 34,kilder/K-30_doi_10.5281_zenodo.23101127.json
+GT-066,Khepri 10.5281/zenodo.23101127 tittel,K-30,linje 31,kilder/K-30_doi_10.5281_zenodo.23101127.json
+GT-067,Khepri 10.5281/zenodo.22893246 er versjon,K-31,linje 37,kilder/K-31_doi_10.5281_zenodo.22893246.json
+GT-068,Khepri 10.5281/zenodo.22893246 tittel,K-31,linje 34,kilder/K-31_doi_10.5281_zenodo.22893246.json
+GT-069,Statnett LMA 2026–2060 publisert,K-27,linje 148,kilder/K-27_Statnett_nyhet_LMA_2026-2060.txt
+GT-070,KMA og LMA slått sammen i 2026-utgaven (ingen egen KMA 2026),K-27,linje 156,kilder/K-27_Statnett_nyhet_LMA_2026-2060.txt
+GT-071,K-19: tittel,K-19,PDF-side 1,kilder/txt/K-19.txt
+GT-072,K-19: arXiv-ID og versjon,K-19,PDF-side 1,kilder/txt/K-19.txt
+GT-073,K-19: importheadroom definert mot realisert sonenettoposisjon,K-19,PDF-side 8,kilder/txt/K-19.txt
+GT-074,K-19: … og minimum nettoposisjon for importheadroom,K-19,PDF-side 8,kilder/txt/K-19.txt
+GT-075,K-19: nettoposisjon = nettoeksport,K-19,PDF-side 4,kilder/txt/K-19.txt
+GT-076,K-19: min/maks nettoposisjon = største gjennomførbare import/eksport,K-19,PDF-side 4,kilder/txt/K-19.txt
+GT-077,K-19: data bare for Core,K-19,PDF-side 8,kilder/txt/K-19.txt
+GT-078,K-19: periode og tema (tyske gass- og kullkraftverk),K-19,PDF-side 1,kilder/txt/K-19.txt
+GT-079,K-19: linjer med «nordic»,K-19,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-19 nordic,kilder/txt/K-19.txt
+GT-080,K-19: linjer med datasenter-/ny last-ord,K-19,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-19 'data cent|datacent|datasenter|new load|new demand',kilder/txt/K-19.txt
+GT-081,K-25: versjon og dato,K-25,PDF-side 1,kilder/txt/K-25.txt
+GT-082,K-25: min/maks nettoposisjon i MW per budområde per MTU,K-25,PDF-side 17,kilder/txt/K-25.txt
+GT-083,K-25: min/maks er unike ekstremer av domenet,K-25,PDF-side 9,kilder/txt/K-25.txt
+GT-084,K-25: samtidig gjennomførbarhet kan ikke garanteres,K-25,PDF-side 9,kilder/txt/K-25.txt
+GT-085,K-25: API-endepunkt realisert DA-nettoposisjon (Net Position SDAC),K-25,PDF-side 21,kilder/txt/K-25.txt
+GT-086,K-25: API-endepunkt min/maks nettoposisjon,K-25,PDF-side 21,kilder/txt/K-25.txt
+GT-087,K-25: Net Position SDAC = DA-nettoposisjon fra markedet,K-25,PDF-side 16,kilder/txt/K-25.txt
+GT-088,K-25: håndboka sier «24 MTUs» for et døgn (avviker fra 96 kvarter i K-23),K-25,PDF-side 8,kilder/txt/K-25.txt
+GT-089,"K-32: go-live 29.10.2024, første levering 30.10.2024",K-32,linje 127,kilder/K-32_Statnett_FB_go-live_2024.txt
+GT-090,K-25: go-live 30. oktober 2024,K-25,PDF-side 28,kilder/txt/K-25.txt
+GT-091,K-10: overgang til 15-minutters oppløsning våren 2025,K-10,PDF-side 39,kilder/txt/K-10.txt
+GT-092,K-10: måler intradag-ATC (ikke DA min nettoposisjon),K-10,PDF-side 4,kilder/txt/K-10.txt
+GT-093,K-10: linjer med «net position»,K-10,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-10 'net position',kilder/txt/K-10.txt
+GT-094,K-10: linjer med datasenter-/ny last-ord,K-10,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-10 'data cent|datacent|datasenter|new load|new demand|ny last|nytt forbruk',kilder/txt/K-10.txt
+GT-095,"K-13: reservert til datasenterformål okt. 2026 (Faktaportalen, gjengitt fra NVE/Statnett)",K-13,linje 166,kilder/K-13_faktaportalen_datasentre.txt
+GT-096,K-13: sist oppdatert,K-13,linje 85,kilder/K-13_faktaportalen_datasentre.txt
+GT-097,K-13: linjer med import-/nettoposisjons-/flow-based-ord,K-13,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-13 'import|nettoposisjon|flow-based|flytbaser|overføring',kilder/K-13_faktaportalen_datasentre.txt
+GT-098,K-09: publikasjonsnummer,K-09,PDF-side 1,kilder/txt/K-09.txt
+GT-099,K-09: oppdragsgiver DFD,K-09,PDF-side 2,kilder/txt/K-09.txt
+GT-100,K-09: nettbegrensninger antas løst gjennom lokalisering (fotnote 72),K-09,PDF-side 65,kilder/txt/K-09.txt
+GT-101,K-09: linjer med flow-based-/nettoposisjons-/importgrenseord,K-09,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-09 'flytbasert|flow.based|nettoposisjon|net position|importgrense|importkapasitet',kilder/txt/K-09.txt
+GT-102,K-09: modellen beregner pris per prisområde,K-09,PDF-side 70,kilder/txt/K-09.txt
+GT-103,K-11: ERAA 2025 finner adekvansproblemer i NOS1 2030–2035,K-11,PDF-side 34,kilder/txt/K-11.txt
+GT-104,K-11: Statnett ser ikke samme risiko,K-11,PDF-side 34,kilder/txt/K-11.txt
+GT-105,K-11: flow-based-modellering nevnt som mulig årsak til avviket,K-11,PDF-side 34,kilder/txt/K-11.txt
+GT-106,K-11: treff på LOLE/EENS/reliability standard i Norge-seksjonen (PDF-side 34),K-11,beregnet — tell selv i kildeteksten; modus/mønster: side K-11 34 'reliability standard|LOLE|EENS',kilder/txt/K-11.txt
+GT-107,"K-11: pålitelighetsstandard oppgitt for SE03/SE04 (1,0 t/år), ikke NO",K-11,PDF-side 50,kilder/txt/K-11.txt
+GT-108,K-12: vedtak nr. og dato,K-12,PDF-side 1,kilder/txt/K-12.txt
+GT-109,K-12: vedtaksdato,K-12,PDF-side 38,kilder/txt/K-12.txt
+GT-110,"K-12: Nordic CCR modellert med flow-based, sju domener per målår",K-12,PDF-side 15,kilder/txt/K-12.txt
+GT-111,K-12: linjer som nevner Norge/norske soner,K-12,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-12 'norw|statnett|NOS[0-9]|NOM[0-9]|NON[0-9]|\bNO[1-5]\b',kilder/txt/K-12.txt
+GT-112,K-12: forslaget endret og godkjent,K-12,PDF-side 38,kilder/txt/K-12.txt
+GT-113,K-06: dato,K-06,PDF-side 2,kilder/txt/K-06.txt
+GT-114,K-06: hvert år til 2030 simulert over 29 kronologiske værår,K-06,PDF-side 5,kilder/txt/K-06.txt
+GT-115,K-06: modellen kan modellere flytbasert markedskobling,K-06,PDF-side 50,kilder/txt/K-06.txt
+GT-116,K-06: brukstid i reservasjonsframskrivingen,K-06,"PDF-side 29, PDF-side 30",kilder/txt/K-06.txt
+GT-117,K-06: linjer med «nettoposisjon»,K-06,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-06 nettoposisjon,kilder/txt/K-06.txt
+GT-118,"K-06: ikke nok importkapasitet (Sør-Norge mot utlandet, Høy/tørrår)",K-06,PDF-side 44,kilder/txt/K-06.txt
+GT-119,K-07: forord datert,K-07,PDF-side 2,kilder/txt/K-07.txt
+GT-120,K-07: datasenter reservert og i kø (LMA),K-07,PDF-side 56,kilder/txt/K-07.txt
+GT-121,"K-07: full nettoimport ikke nok (nasjonalt, alt reservert realisert)",K-07,PDF-side 85,kilder/txt/K-07.txt
+GT-122,K-07: maksimalt forbruk/effektbalanse regnes for hele Norge,K-07,PDF-side 92,kilder/txt/K-07.txt
+GT-123,K-07: linjer med «nettoposisjon»,K-07,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-07 nettoposisjon,kilder/txt/K-07.txt
+GT-124,K-07: KMA og LMA slått sammen (rapportens forord),K-07,PDF-side 2,kilder/txt/K-07.txt
+GT-125,K-08: dato,K-08,PDF-side 1,kilder/txt/K-08.txt
+GT-126,K-08: overføring over Ofotenforbindelsene ved intakt nett,K-08,PDF-side 7,kilder/txt/K-08.txt
+GT-127,K-08: flytbasert nevnt kvalitativt,K-08,PDF-side 20,kilder/txt/K-08.txt
+GT-128,K-17: brevdato,K-17,PDF-side 1,kilder/txt/K-17.txt
+GT-129,K-17: saksreferanse,K-17,PDF-side 1,kilder/txt/K-17.txt
+GT-130,K-17: realisert kapasitet inn til Område Nord,K-17,PDF-side 8,kilder/txt/K-17.txt
+GT-131,K-17: varighet av forbruksutkobling om vinteren i Forbruk 5,K-17,PDF-side 8,kilder/txt/K-17.txt
+GT-132,K-17: forbruksvekst utover 850 MW i Område Nord gir risiko for effektmangel,K-17,PDF-side 9,kilder/txt/K-17.txt
+GT-133,K-17: linjer med flytbasert/nettoposisjon,K-17,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-17 'flytbaser|flow.based|nettoposisjon',kilder/txt/K-17.txt
+GT-134,K-17: modell Samnett/EMPS,K-17,PDF-side 8,kilder/txt/K-17.txt
+GT-135,"Arkivet: sider der datasenter-ord og nettoposisjonsord står sammen (bare v1s egne filer, der NP = produksjon − last)",K-14,beregnet — tell selv i kildeteksten; modus/mønster: samtreff-liste 'datasent|data cent|datacent' 'nettoposisjon|net position|netpos',kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-136,Arkivet: sider med pålitelighetsstandard-/LOLE-/EENS-ord sammen med Norge/norske soner,K-11,beregnet — tell selv i kildeteksten; modus/mønster: samtreff-liste 'reliability standard|pålitelighetsstandard|LOLE|EENS' 'Norw|Norge|NOS1|\bNO[1-5]\b',kilder/txt/K-11.txt
+GT-137,K-01: rapportnummer,K-01,PDF-side 2,kilder/txt/K-01.txt
+GT-138,K-01: vurderer bare nasjonal effektsituasjon,K-01,PDF-side 28,kilder/txt/K-01.txt
+GT-139,K-01: budområdebalansene er svært forenklet,K-01,PDF-side 28,kilder/txt/K-01.txt
+GT-140,K-01: én topplasttime (kaldeste døgn i kaldeste værår),K-01,PDF-side 22,kilder/txt/K-01.txt
+GT-141,K-01: linjer med «nettoposisjon»,K-01,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-01 nettoposisjon,kilder/txt/K-01.txt
+GT-142,K-01: enkelttimer med importbehov (nasjonalt),K-01,PDF-side 7,kilder/txt/K-01.txt
+GT-143,K-02: rapportnummer,K-02,PDF-side 2,kilder/txt/K-02.txt
+GT-144,K-02: importmuligheter ikke analysert,K-02,"PDF-side 8, PDF-side 22",kilder/txt/K-02.txt
+GT-145,K-02: linjer med flytbasert-/nettoposisjonsord,K-02,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-02 'flytbaser|flow-based|flow based|nettoposisjon',kilder/txt/K-02.txt
+GT-146,K-02: (gjengitt) oftere situasjoner uten nok importkapasitet,K-02,PDF-side 8,kilder/txt/K-02.txt
+GT-147,K-03: rapportnummer,K-03,PDF-side 50,kilder/txt/K-03.txt
+GT-148,K-03: effektbalansen regnes uten import,K-03,PDF-side 16,kilder/txt/K-03.txt
+GT-149,K-03: omtaler observert nettoposisjon per budområde,K-03,PDF-side 42,kilder/txt/K-03.txt
+GT-150,K-03: 2025 første hele år med flytbasert kapasitetsberegning i Norden,K-03,PDF-side 11,kilder/txt/K-03.txt
+GT-151,K-03: linjer med importgrense/min nettoposisjon,K-03,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-03 'importgrense|min(imum)? nettoposisjon',kilder/txt/K-03.txt
+GT-152,K-03: datasenterforbruk 2025 → 2030,K-03,PDF-side 21,kilder/txt/K-03.txt
+GT-153,K-03: Statnett innførte midlertidig stopp i reservasjoner i slutten av april 2026,K-03,PDF-side 31,kilder/txt/K-03.txt
+GT-154,K-04: rapportnummer,K-04,"PDF-side 1, PDF-side 2",kilder/txt/K-04.txt
+GT-155,K-04: ingen egne analyser av effektbalanse,K-04,PDF-side 17,kilder/txt/K-04.txt
+GT-156,K-04: jevn forbruksprofil for datasentre,K-04,PDF-side 17,kilder/txt/K-04.txt
+GT-157,K-04: reservert til datasentre per august 2026,K-04,PDF-side 27,kilder/txt/K-04.txt
+GT-158,K-04: datasenterkø,K-04,PDF-side 27,kilder/txt/K-04.txt
+GT-159,"K-04: netto import til Norge i 17 av 30 værår (nasjonalt, årsbasis)",K-04,PDF-side 14,kilder/txt/K-04.txt
+GT-160,K-04: linjer med flytbasert-/nettoposisjonsord,K-04,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-04 'flytbaser|flow-based|nettoposisjon',kilder/txt/K-04.txt
+GT-161,K-04: kraftpriser fastsettes med 15 minutters tidsoppløsning,K-04,PDF-side 20,kilder/txt/K-04.txt
+GT-162,K-05: utgiver og dato,K-05,PDF-side 1,kilder/txt/K-05.txt
+GT-163,K-05: linjer med import-/budområdeord,K-05,beregnet — tell selv i kildeteksten; modus/mønster: linjer K-05 'import|budområde|\bNO[1-5]\b',kilder/txt/K-05.txt
+GT-164,3a: JAO netPos-felt for realisert DA-nettoposisjon per sone (NO1 som eksempel),K-36,linje 100,kilder/K-36_JAO_meta_netPos_maxNetPos.json
+GT-165,3a: JAO netPos for 2024-10-30 ga ingen data,K-36,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-36_JAO_meta_netPos_maxNetPos.json
+GT-166,3a: JAO netPos for 2026-10-26: antall rader,K-36,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-36_JAO_meta_netPos_maxNetPos.json
+GT-167,3a: JAO maxNetPos for 2024-10-30: antall rader (timeoppløsning ved start),K-36,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-36_JAO_meta_netPos_maxNetPos.json
+GT-168,3a: JAO maxNetPos 2024-10-30: første og siste tidsstempel,K-36,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-36_JAO_meta_netPos_maxNetPos.json
+GT-169,"3b: ENTSO-E A68 (TR 14.1.A) har kolonner 2024, 2025 og 2026 for alle fem NO-soner",K-35,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-170,3c: ENTSO-E A65 2026-10-31: soner med 96 av 96 MTU med faktisk last,K-35,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-171,3c: ENTSO-E A75 2026-10-31: soner med 96 av 96 MTU med produksjonstall,K-35,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-172,3c: ENTSO-E A11 2026-10-31: grenseretninger med 96 MTU / med 0 MTU (NO1↔NO1A),K-35,beregnet — tell selv i kildeteksten; les/tell i kildefila (JSON/CSV/tekst) slik påstanden beskriver,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-173,3c: ENTSO-E 2026-10-31 har 15-minutters MTU,K-35,linje 19,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-174,3c: dekning jan–okt 2026 utover 2026-10-31 er ikke kontrollert,K-35,linje 37,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-175,3c: API-henting ikke mulig fordi tokenet ikke finnes i skallets miljø,K-35,linje 5,kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-176,v1: alle serie-år har fullt timeantall 2023/2024/2025,K-14,linje 45,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md

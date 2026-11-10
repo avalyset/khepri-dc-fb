@@ -1,0 +1,5 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-553,K-87: første døgn med bare 15-minutters MTU i netPos (dato alene),K-87,"linje 16 (CSV-linja post,datasett,sone,maaned,verdi1,verdi2: oppgi bare det feltet påstanden spør etter, ordrett)",kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt
+GT-554,K-87: første døgn med bare 15-minutters MTU i maxNetPos (dato alene),K-87,"linje 17 (CSV-linja post,datasett,sone,maaned,verdi1,verdi2: oppgi bare det feltet påstanden spør etter, ordrett)",kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt
+GT-555,"K-87: JAO-MTU-skiftet, seneste av datasettenes datoer (dato alene)",K-87,"linje 18 (CSV-linja post,datasett,sone,maaned,verdi1,verdi2: oppgi bare det feltet påstanden spør etter, ordrett)",kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt
+GT-556,K-87: skillet for JAO-MTU-skiftet i UTC (start av skiftedøgnet),K-87,"linje 18 (CSV-linja post,datasett,sone,maaned,verdi1,verdi2: oppgi bare det feltet påstanden spør etter, ordrett)",kilder/K-87_dataruna_2a_JAO_dekning_2026-11-10.txt

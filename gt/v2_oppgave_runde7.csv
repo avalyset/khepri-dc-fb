@@ -1,0 +1,39 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-316,"Beslutning (K-64) om FORSLAG GT-316: i sensitiviteten med brukstid 1,0 byttes brukstiden b begge steder i v1-formelen (i R_new og i påslaget)",K-64,linje 6,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-317,Beslutning (K-64) om FORSLAG GT-317: hvor fortegnet for JAO-nettoposisjonen tas fra,K-64,linje 7,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-318,Beslutning (K-64) om FORSLAG GT-318: når en time er hendelse,K-64,linje 8,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-319,Beslutning (K-64) om FORSLAG GT-319: hva som gjelder for E_y i 2026 hvis v1s E-kilde har januar–oktober 2026,K-64,linje 9,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-320,Beslutning (K-64) om FORSLAG GT-320: hva regulerbar vannkraft i den øvre grensen er,K-64,linje 10,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-321,Beslutning (K-64) om FORSLAG GT-321: A11s rolle,K-64,linje 11,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-322,Beslutning (K-64) om FORSLAG GT-322: A65 inngår ikke i analysen,K-64,linje 12,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-323,"K-38 (v1 analysis.py, linje 40): signaturen til r_new, som tar brukstiden b som argument",K-38,linje 40,kilder/K-38_KHEPRI-DC_v1_analysis_v1.0.1.py
+GT-324,"K-38 (v1 analysis.py, linje 41): det r_new returnerer",K-38,linje 41,kilder/K-38_KHEPRI-DC_v1_analysis_v1.0.1.py
+GT-325,"K-66 (Nordic CCM, endringsforslag 2026), definisjonen av NP: hva positivt og negativt fortegn betyr",K-66,PDF-side 8,kilder/txt/K-66.txt
+GT-326,K-66: hva NP er lik,K-66,PDF-side 8,kilder/txt/K-66.txt
+GT-327,K-65 (Nordic CCM 2020): definisjonen av NP,K-65,PDF-side 8,kilder/txt/K-65.txt
+GT-328,K-25 (JAO-håndboka): fortegnet for nettoposisjon i virtuelle budområder,K-25,PDF-side 19,kilder/txt/K-25.txt
+GT-329,"K-35 (A68): Hydro Pumped Storage i NO1, 2024 / 2025 / 2026",K-35,beregnet — les A68-linja for NO1 i K-35 selv: de tre verdiene for Hydro Pumped Storage (2024 2025 2026),kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-330,"K-35 (A68): Hydro Pumped Storage i NO2, 2024 / 2025 / 2026",K-35,"beregnet — som over, NO2",kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-331,"K-35 (A68): Hydro Pumped Storage i NO3, 2024 / 2025 / 2026",K-35,"beregnet — som over, NO3",kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-332,"K-35 (A68): Hydro Pumped Storage i NO4, 2024 / 2025 / 2026",K-35,"beregnet — som over, NO4",kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-333,"K-35 (A68): Hydro Pumped Storage i NO5, 2024 / 2025 / 2026",K-35,"beregnet — som over, NO5",kilder/K-35_ENTSOE_TP_avlesning_2026-11-09.txt
+GT-334,K-22 (v1-parameterfila): kilden til E og dens sha256,K-22,linje 46,kilder/K-22_KHEPRI-DC_v1_parametre.json
+GT-335,"K-69 (Elhub-fila, utpakket): sha256",K-69,beregnet — regn sha256 av fila selv,kilder/K-69_Elhub_consumption_datacenter_per_mba_hour-all.csv
+GT-336,K-69: siste STARTTID i fila (UTC),K-69,"beregnet — finn seneste STARTTID i fila og oppgi den i UTC (ISO, Z)",kilder/K-69_Elhub_consumption_datacenter_per_mba_hour-all.csv
+GT-337,"Timer i vinduet [2026-01-01T00:00Z, 2026-11-01T00:00Z)",K-69,"beregnet — antall timer i halvåpent intervall [2026-01-01T00:00Z, 2026-11-01T00:00Z)",kilder/K-69_Elhub_consumption_datacenter_per_mba_hour-all.csv
+GT-338,"K-69: distinkte timer med data i vinduet 2026-01-01–2026-10-31 (UTC), NO1–NO5",K-69,"beregnet — antall distinkte UTC-timer med rad i fila i [2026-01-01T00:00Z, 2026-11-01T00:00Z), per sone NO1 NO2 NO3 NO4 NO5 (mellomromsskilt)",kilder/K-69_Elhub_consumption_datacenter_per_mba_hour-all.csv
+GT-339,E_2026 per sone NO1–NO5 med v1s regel (sum kWh / 1000 / 7296 timer) over 2026-01-01–2026-10-31 (UTC),K-69,"beregnet — sum VOLUM_KWH (desimalkomma) / 1000 / antall timer i [2026-01-01T00:00Z, 2026-11-01T00:00Z), per sone NO1–NO5, 3 desimaler, mellomromsskilt; STARTTID har tidssone og må gjøres om til UTC",kilder/K-69_Elhub_consumption_datacenter_per_mba_hour-all.csv
+GT-340,Kontroll: samme regel over hele 2025 gjenskaper v1s E_MW 2025 (K-22) for NO1–NO5,K-69,"beregnet — samme regel som over, men over hele UTC-året 2025 (8760 timer), per sone NO1–NO5, 3 desimaler",kilder/K-69_Elhub_consumption_datacenter_per_mba_hour-all.csv
+GT-341,K-67 (Statnett Power BI): når status endres fra reservert til tilknyttet,K-67,linje 19,kilder/K-67_Statnett_PowerBI_definisjoner_2026-11-09.txt
+GT-342,K-67: forbehold om tilknyttede prosjekter som fortsatt står som reservert,K-67,linje 21,kilder/K-67_Statnett_PowerBI_definisjoner_2026-11-09.txt
+GT-343,K-67: hvor ofte tilknytningssakene oppdateres,K-67,linje 20,kilder/K-67_Statnett_PowerBI_definisjoner_2026-11-09.txt
+GT-344,K-68 (Statnetts ordliste): hva reservasjon betyr,K-68,linje 170,kilder/K-68_Statnett_ordliste_tilknytningssaker.txt
+GT-345,K-64: hva som skjer hvis en definisjon finnes og A11-korrelasjonen motsier den,K-64,linje 7,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-346,K-64 (GT-318): time med manglende MTU,K-64,linje 8,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-347,K-64 (GT-318): hvilke andeler som rapporteres,K-64,linje 8,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-348,K-64 (GT-320): vannkrafttypen som holdes utenfor,K-64,linje 10,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-349,K-64 (GT-320): pumpetimer,K-64,linje 10,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-350,K-64 (GT-320): utfall og driftsstans,K-64,linje 10,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-351,K-64: rundetellingen i port A,K-64,linje 13,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt
+GT-352,K-14 (v1-manus): hvordan v1 parset rå ENTSO-E-XML,K-14,linje 44,kilder/K-14_KHEPRI-DC_v1_manus_v1.0.1.md
+GT-353,K-64 (GT-317): reserveregelen hvis ingen definisjon finnes,K-64,linje 7,kilder/K-64_BESLUTNING_forslag_GT-316-322_2026-11-09.txt

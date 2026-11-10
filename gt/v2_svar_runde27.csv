@@ -1,0 +1,5 @@
+gt_id,verdi,sted,metode,kommentar
+GT-775,Østli understreker at Statnetts vedtak ikke innebærer en generell stans i tilknytning av datasentre.,kilder/K-16_Statnett_pressemelding_systemdrift.txt linje 176-177,lest ordrett med sed -n,setningen fortsetter på linje 177
+GT-776,Tiltaket berører heller ikke eksisterende tilknytninger.,kilder/K-16_Statnett_pressemelding_systemdrift.txt linje 178,lest ordrett med sed -n,
+GT-777,"Ingen fil fra `resultater/`, `khepri_dc_fb/`, `tools/`, `tests/`, `gt/`, `AVVIK_FRA_PREREG.md`, `kdf-dataruna/` eller `kdf-recon-np/` er åpnet.",kilder/K-113_uavhengig_omregning_A2_METODE_2026-11-10.md linje 3,lest ordrett med Read,"samme linje sier også: «JAO `netPos` er ikke lest.» (lest, ikke åpnet; utelatt)"
+GT-778,"Grunnlaget er `prereg_tag.md`, `git show prereg-v1:GROUND_TRUTH.md` og avvik A2 slik briefen gjengir det.",kilder/K-113_uavhengig_omregning_A2_METODE_2026-11-10.md linje 3,lest ordrett med Read,første setning på linja; inndata-setningen etterpå er ikke tatt med

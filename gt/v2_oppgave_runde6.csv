@@ -1,0 +1,6 @@
+gt_id,paastand,kilde,sted,tekstfil
+GT-311,3a: døgnet der JAO netPos hadde 96 rader (nøkkel i metadatafila),K-36,beregnet — les JSON-fila selv: hvilket døgn (dato) har netPos med 96 rader,kilder/K-36_JAO_meta_netPos_maxNetPos.json
+GT-312,"3b-anker: MTU-lengden etter skiftet, slik rådatautdraget betegner den",K-42,"linje 30, linje 60, linje 69",kilder/K-42_RAAUTDRAG_MTU-skifte.txt
+GT-313,K-07: rapporttittel,K-07,PDF-side 1,kilder/txt/K-07.txt
+GT-314,K-51: URL til OSF-registreringen Khepri-TSFM (hncz5),K-51,linje 1,kilder/K-51_OSF_hncz5_oppsett.txt
+GT-315,"Beslutning (K-50, statusbeskrivelse): anker A brukes, anker B oppgis",K-50,linje 14,kilder/K-50_BESTILLING_fullforing_2026-11-09.txt

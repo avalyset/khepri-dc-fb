@@ -1,0 +1,22 @@
+kilde_id,tittel,url,fil,type,kontrollstreng
+K-01,NVE rapport 20/2022,https://publikasjoner.nve.no/rapport/2022/rapport2022_20.pdf,K-01_NVE_rapport2022_20.pdf,pdf,vassdrags
+K-02,NVE rapport 20/2024,https://publikasjoner.nve.no/rapport/2024/rapport2024_20.pdf,K-02_NVE_rapport2024_20.pdf,pdf,vassdrags
+K-03,NVE rapport 17/2026,https://publikasjoner.nve.no/rapport/2026/rapport2026_17.pdf,K-03_NVE_rapport2026_17.pdf,pdf,vassdrags
+K-04,NVE rapport 37/2026,https://publikasjoner.nve.no/rapport/2026/rapport2026_37.pdf,K-04_NVE_rapport2026_37.pdf,pdf,datasenter
+K-05,NVE Metode for framskriving av strømforbruk i datasentre (2026),https://publikasjoner.nve.no/diverse/2026/Metode.for.framskriving.av.strombruk.i.datasentre2026.pdf,K-05_NVE_metode_datasentre_2026.pdf,pdf,datasentre
+K-06,Statnett Kortsiktig markedsanalyse 2025-2030,https://www.statnett.no/globalassets/for-aktorer-i-kraftsystemet/planer-og-analyser/kma/kortsiktig-markedsanalyse-2025---2030.pdf,K-06_Statnett_KMA_2025-2030.pdf,pdf,Statnett
+K-07,Statnett Langsiktig markedsanalyse 2026-2060,https://www.statnett.no/globalassets/for-aktorer-i-kraftsystemet/planer-og-analyser/lma/langsiktig-markedsanalyse_2026-2060.pdf,K-07_Statnett_LMA_2026-2060.pdf,pdf,Statnett
+K-08,Statnett Områdeplan Nord 2025,https://www.statnett.no/globalassets/for-aktorer-i-kraftsystemet/planer-og-analyser/omradeplaner/nord/omradeplan-nord-2025.pdf,K-08_Statnett_Omradeplan_Nord_2025.pdf,pdf,Statnett
+K-09,Menon Økonomiske aspekter ved den norske datasenternæringen (Menon-publikasjon 129/2026),https://www.regjeringen.no/contentassets/7d1bb1a439c049adbbad8073f5b3e10f/menon-rapport-okonomiske-aspekter-ved-den-norske-datasenternaringen.pdf,K-09_Menon_129-2026_datasenternaringen.pdf,pdf,Menon
+K-10,Nordic TSOs Follow-up report concerning Flow-Based implementation and ID ATCE,https://nordic-rcc.net/wp-content/uploads/2025/06/Follow-up-report-concerning-Flow-Based-implementation-and-ID-ATCE-%E2%80%93-response-from-Nordic-TSOs.pdf,K-10_NordicTSOs_FollowUp_FB_IDATCE.pdf,pdf,ATCE
+K-11,ENTSO-E ERAA 2025 Annex 6 Country Comments (proposal Dec 2025),https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/sdc-documents/ERAA/ERAA_2025_Annex6_CountryComments_ENTSOEProposal_Dec2025.pdf,K-11_ERAA2025_Annex6_CountryComments.pdf,pdf,Norway
+K-12,ACER Decision 06/2026 on ERAA 2025,https://www.acer.europa.eu/sites/default/files/documents/Individual%20Decisions/ACER-Decision-06-2026-ERAA-2025.pdf,K-12_ACER_Decision_06-2026_ERAA2025.pdf,pdf,ERAA
+K-13,Faktaportalen Datasentre,https://www.faktaportalen.no/energi/sektorer/datasentre,K-13_faktaportalen_datasentre.txt,html,datasent
+K-16,Statnett pressemelding Midlertidige tiltak for fortsatt forsvarlig systemdrift,https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/,K-16_Statnett_pressemelding_systemdrift.txt,html,forsvarlig
+K-17,Statnett svarbrev til NVE om utredninger av forsyningssikkerhet i Nord-Norge 15.06.2026,https://www.statnett.no/globalassets/for-aktorer-i-kraftsystemet/nyheter-for-aktorer-i-kraftbransjen/svarbrev-nve-om-utredninger-av-forsyningssikkerhet-i-nord-norge-15.06.2026.pdf,K-17_Statnett_svarbrev_NVE_2026-06-15.pdf,pdf,NO4
+K-18,JAO General Terms and Conditions for the use of the Information Systems,https://www.jao.eu/terms-conditions,K-18_JAO_terms-conditions.txt,html,Legitimate Use
+K-19,arXiv 2607.00977,https://arxiv.org/pdf/2607.00977,K-19_arXiv_2607.00977.pdf,pdf,net position
+K-25,JAO Nordic Publication Tool Handbook v1.8.1,https://publicationtool.jao.eu/PublicationHandbook/Nordic_PublicationTool_Handbook_v1.8.1.pdf,K-25_JAO_Nordic_PublicationTool_Handbook_v1.8.1.pdf,pdf,Net Position
+K-26,Statnett Successful go-live of the Nordic Flow-Based Market Coupling project,https://statnett.no/en/about-statnett/news-and-press-releases/news-archive-2024/successful-go-live-of-the-nordic-flow-based-market-coupling-project,K-26_Statnett_FB_go-live_2024.txt,html,flow-based
+K-27,Statnett nyhet Langsiktig markedsanalyse 2026-2060 (19.10.2026),https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/new-page/,K-27_Statnett_nyhet_LMA_2026-2060.txt,html,markedsanalyse
+K-32,Statnett Successful go-live of the Nordic Flow-Based Market Coupling project (ny henting av K-26 via www),https://www.statnett.no/en/about-statnett/news-and-press-releases/news-archive-2024/successful-go-live-of-the-nordic-flow-based-market-coupling-project,K-32_Statnett_FB_go-live_2024.txt,html,flow-based
